@@ -18,7 +18,9 @@
         *   Rock samples!
     3.  Igneous Rocks
         *   Compare a Lava Rock (glass/pumice) vs. a Magma Rock (granite)
+        *   [A picture of pumice](http://epod.usra.edu/blog/2015/06/encore-reticulite.html) that can float on water.
     4.  Sedimentary Rocks
+        *   [Rock that was sea floor](http://epod.usra.edu/blog/2015/06/nevadas-valley-of-fire.html)
     5.  Metamorphic Rocks
     6.  The Rock Cycle
 3.  Plate Tectonics
@@ -77,7 +79,8 @@
         *   Sand dunes
 8.  A Trip Through Geologic Time - Contrast with Genesis 1-3, explain Catholic non-literal doctrine.
     1.  Fossils
-        *   Dino bones with biological goo inside?
+        *   [Dino bones with biological goo inside](http://www.livescience.com/41537-t-rex-soft-tissue.html)
+        *   [Different discovery with blood cells](http://blogs.discovermagazine.com/d-brief/2015/06/09/blood-cells-dinosaur-bones/#.VYdwiLy37yM)
     2.  The Relative Age of Rocks
     3.  Radioactive Dating
         *   Fallout since 1945
@@ -101,6 +104,7 @@
         *   Which takes more water: bath or shower....Fill a bath (to desired height) with gallon jugs counting them. Then take a shower with the stopper in and see how high it gets.
         *   Taste salt water at ocean ratio in dixie cups
         *   Volumen comparison of Salt vs. Fresh water
+        *   [Cool demonstration](https://www.youtube.com/watch?v=M5gHFJyMQ6o) of shockwaves moving through water
     2.  Surface Water
     3.  Water Underground
         *   Pics/vid of spring coming out of side of a hill
@@ -115,11 +119,13 @@
         *   Raise a phone with a barometer up with a kite/balloon on string have it record pressure change.
         *   Helium balloon in accelerating car...air sloshes like water.
     3.  Layers of the Atmosphere
-        *   Picture from space shuttle
+        *   [Picture](https://commons.m.wikimedia.org/wiki/File:Endeavour_silhouette_STS-130.jpg) of space shuttle taken from space station. In the background, you can see the different layers of the atmosphere.
+        *   More details [here](https://en.m.wikipedia.org/wiki/Atmosphere_of_Earth#Principal_layers).
     4.  Energy in Earth’s Atmosphere
     5.  Heat Transfer
         *   CO2 let's visible through, reflects IR given off by ground.
     6.  Winds
+        *   [Smoke plume from a fire](http://earthobservatory.nasa.gov/IOTD/view.php?id=86011)
 12. Weather - Start of Book 3
     1.  Water in the Atmosphere
     2.  Clouds
