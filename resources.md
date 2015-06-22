@@ -128,16 +128,29 @@
         *   [Smoke plume from a fire](http://earthobservatory.nasa.gov/IOTD/view.php?id=86011)
 12. Weather - Start of Book 3
     1.  Water in the Atmosphere
+        *   Move water between beakers with evaporation (help with heating) and condensation (help with cooling).
+        *   Dew point measure: Thermometer in a can of water at room tempature. Slowly add ice until the side of the can starts to sweat. Dew Point can be converted to Relative Humidity with an equation.
     2.  Clouds
+        *   Frost on mars: picture from mars polar lander?
     3.  Precipitation
+        *   Hail vs. Freezing Rain vs. Sleet vs. Snow
+        *   How much rain do we get in STL in a year? In a month/day/hour/etc? Show in 1in column....think about that spread over a large area and how much water that would be. Compare to that much over a city/state...all has to leave through the river, so we get floods.
     4.  Air Masses
+        *   Cyclone == Hurricane, Cyclone != Tornado
     5.  Storms
+        *   Lightning danger - xkcd
+        *   Hurricane water temperature intensity
     6.  Predicting the Weather
+        *   Compare prediction accuracy: 1hr, 8hr, 1day, 3day, 7day
 13. Climate and Climate Change
     1.  What Causes Climate?
     2.  Climate Regions
     3.  Changes in Climate
     4.  Human Activities and Climate Change
+        *   CO2 readings graph
+        *   Temperature graph
+        *   Hottest years
+        *   Feedback Loops
 14. Earth, Moon, and Sun
     1.  The Sky from Earth
     2.  Earth in Space
