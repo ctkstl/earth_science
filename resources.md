@@ -77,7 +77,7 @@
     5.  Wind erosion
         *   Death valley sailing rocks
         *   Sand dunes
-8.  A Trip Through Geologic Time - Contrast with Genesis 1-3, explain Catholic non-literal doctrine.
+8.  A Trip Through Geologic Time - Contrast with Genesis 1-3, explain Catholic non-literal doctrine. 1st Creation: Genesis 1-2:3. 2nd Creation: Genesis 2:4-2:25. Note the different order of creation: Light, Sky, Water/Land, Stars, Sea Animals/Birds, Animals/Humans/Plants vs. Earth, Stream, Man, Garden/Plants, Rivers, Animals, Woman. 
     1.  Fossils
         *   [Dino bones with biological goo inside](http://www.livescience.com/41537-t-rex-soft-tissue.html)
         *   [Different discovery with blood cells](http://blogs.discovermagazine.com/d-brief/2015/06/09/blood-cells-dinosaur-bones/#.VYdwiLy37yM)
