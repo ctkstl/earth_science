@@ -5,7 +5,8 @@
         *   Magnetic field strength with two magnets on string - Show that one magnet will align with the earth's field... Then use another magnet to show how close it has to be to 'overpower' the earth's field.
     3.  Convection and the Mantle
     4.  Exploring Earth’s Surface
-        *   Map of Ozark Plateau/Mountains, and how it comes right up into STL.
+        *   [Map of Ozark Plateau/Mountains](https://en.wikipedia.org/wiki/Ozarks#/media/File:OzarkRelief.jpg), and how it comes right up into STL.
+            *   Turn on 'Terrain' feature of google maps and zoom around south-west of STL
     5.  Models of Earth
         *   Use tablet starmap to find the direction to the north star...compare the direction to our location on a globe. 
         *   More complicated: Find the direction to the sun, compare with time of day + day of year...how does this change by latitude. 
@@ -45,14 +46,17 @@
         *   Mt. St. Helens
             *   1980 Collapse/Eruption [1- 16:30](https://www.youtube.com/watch?v=3zHgwiOK3oU) 
             *   [2- Animation](https://www.youtube.com/watch?v=IhU6jml6NY4)
+            *   [Watching the next mountain over explode](http://imgur.com/uKnHLek)
             *   [Mt. St. Helens Reforming](https://www.youtube.com/watch?v=h6B1myUKAS4), this is an ongoing process.
-            *   Mt. St. Helens... before/after/today
+            *   Mt. St. Helens... before/after/[today](http://i.imgur.com/iMWteOW.jpg)
             *   Compare to Rainer, Hood, Shasta, Fuji
         *   Kileaua
             *   Kamoamoa fissure eruption
                 *   [Flowing lava](https://www.youtube.com/watch?v=5ncOb_gOjuQ) 
             *   Lava Lake
             *   Flowing into town
+        *   Less dangerous/expansive eruptions
+            *   [Galeras](https://en.wikipedia.org/wiki/Galeras) is just a few miles from a large city in Colombia and erupts frequently, but hasn't posed a serious danger to the town or even the farmers working fields on the sides of the volcano.
     3.  Volcanic Landforms
         *   Crater Lake Caldera
         *   Yellowstone Caldera
@@ -77,7 +81,7 @@
     5.  Wind erosion
         *   Death valley sailing rocks
         *   Sand dunes
-8.  A Trip Through Geologic Time - Contrast with Genesis 1-3, explain Catholic non-literal doctrine. 1st Creation: Genesis 1-2:3. 2nd Creation: Genesis 2:4-2:25. Note the different order of creation: Light, Sky, Water/Land, Stars, Sea Animals/Birds, Animals/Humans/Plants vs. Earth, Stream, Man, Garden/Plants, Rivers, Animals, Woman. 
+8.  A Trip Through Geologic Time - Contrast with Genesis 1-3, explain Catholic non-literal doctrine.
     1.  Fossils
         *   [Dino bones with biological goo inside](http://www.livescience.com/41537-t-rex-soft-tissue.html)
         *   [Different discovery with blood cells](http://blogs.discovermagazine.com/d-brief/2015/06/09/blood-cells-dinosaur-bones/#.VYdwiLy37yM)
@@ -113,6 +117,7 @@
     6.  Currents and Climate
         *   Tsunami debris
         *   Great pacific garbage patch
+        *   [Heat storage in the ocean](http://earthobservatory.nasa.gov/IOTD/view.php?id=86184)
 11. The Atmosphere
     1.  The Air Around You
     2.  Air Pressure
@@ -162,9 +167,13 @@
     1.  Models of the Solar System
     2.  Introducing the Solar System
     3.  The Sun
+        *    [Cool video showing sunspots rotating around the sun](http://apod.nasa.gov/apod/ap150629.html)
+        *    [The color of light coming out of the sun](http://apod.nasa.gov/apod/ap150628.html)
     4.  The Inner Planets
+        *    How big is the earth...roughly the same size as venus...how big is that? [See it passing in front of the sun.](http://www.nasa.gov/feature/goddard/scientists-study-venus-atmosphere-through-transit)
     5.  The Outer Planets
     6.  Small Solar System Objects
+        *    [The "Not Planets"](http://www.planetary.org/blogs/emily-lakdawalla/2015/07141338-the-not-planets.html)
 16. Stars, Galaxies, and the Universe
     1.  Telescopes
     2.  The Scale of the Universe
@@ -180,5 +189,8 @@
     5.  Air Pollution and Solutions
     6.  Water Pollution and Solutions
 
+Bonus:
+*   [Mangus Effect](http://imgur.com/KuayNFt)
+*   [Which falls faster a bowling ball or a feather?](http://www.iflscience.com/physics/dropping-bowling-ball-and-feather-vacuum)
 
 
