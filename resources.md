@@ -3,6 +3,7 @@
     2.  Earth's Interior
         *   [Under pressure simulation](https://phet.colorado.edu/en/simulation/under-pressure)
         *   Magnetic field strength with two magnets on string - Show that one magnet will align with the earth's field... Then use another magnet to show how close it has to be to 'overpower' the earth's field.
+        *   The above doesn't seem to work well. Instead, use a compass and show how close a strong magnet needs to get to affect it. You can feel the affect of the compass on the magnet!
         *   Magnetic field doesn't always point north. [Here's the map of it](https://en.wikipedia.org/wiki/File:World_Magnetic_Declination_2010.pdf). Why? 1) The magnetic poles don't match the astrophysical poles of the planet. 2) There are anamolies in the mantle (and core?) that cause variations in it, the largest called the "South Atlantic Anomoly".
     3.  Convection and the Mantle
     4.  Exploring Earth’s Surface
