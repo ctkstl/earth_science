@@ -13,6 +13,12 @@
         *   More complicated: Find the direction to the sun, compare with time of day + day of year...how does this change by latitude. 
     6.  Topographic Maps
         *   Compare a topo map of somewhere (with elevation) with the Google Earth fly around of that location.
+        *   Using Taum Sauk Mountain (Highest Point in MO) as an example
+            *   Go to [Google Maps](https://www.google.com/maps/@37.5719819,-90.7286916,18z), the highest point is where the gray trail ends. In the menu select 'Terrain' view.
+            *   Go to a topo map source, such as [MyTopo](http://www.mytopo.com/maps/). Then search for "Taum Sauk Mountain, Arcadia, MO, United States" (start typing and it should auto-complete for you. 
+            *   Another source for topo maps is the [USGS Site](http://store.usgs.gov/b2c_usgs/usgs/maplocator/%28ctype=areaDetails&xcm=r3standardpitrex_prd&carea=$ROOT&layout=6_1_61_48&uiarea=2%29/.do). Here search for "Taum Sauk Mountain", it should put a push pin on the top of the mountain. Click on it and select the "Ironton 7.5x7.5 GRID from 2000" and click the 16.06MB link to download it. [This link](ims.er.usgs.gov/gda_services/download?item_id=5578410) may also work for you.
+            *   Open google earth and search for "Taum Sauk Mountain Overlook". From here, the high-point should be about 450m West-Southwest of the overlook point. You can also search for Mina Sauk Falls (the highest waterfall in MO). Use the google earth controls to change the perspective so you can zoom around the mountain sideways.
+            *   What is the top of the mountain like...a peak? flat? (A: Very flat...when standing at the high-point, you cannot see any substantial change in elevation around you.)
         *   Can minecraft output a topographic map of a world?
 2.  Minerals and Rocks
     1.  Properties of Minerals
