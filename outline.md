@@ -1,3 +1,8 @@
+---
+layout: page
+title: Outline
+permalink: /outline/
+---
 1.  Introducing Earth
     1.  The Earth System
     2.  Earth's Interior
