@@ -29,6 +29,7 @@
     3.  Igneous Rocks
         *   Compare a Lava Rock (glass/pumice) vs. a Magma Rock (granite)
         *   [A picture of pumice](http://epod.usra.edu/blog/2015/06/encore-reticulite.html) that can float on water.
+        *   [Igneous rocks in MIssouri](http://dnr.mo.gov/geology/docs/gcsummer8.pdf)
     4.  Sedimentary Rocks
         *   [Rock that was sea floor](http://epod.usra.edu/blog/2015/06/nevadas-valley-of-fire.html)
     5.  Metamorphic Rocks
