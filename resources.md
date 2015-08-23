@@ -85,6 +85,7 @@ permalink: /resources/
 7.  Erosion and Deposition - Start of Book 2
     1.  Mass Movement
         *   [Mississippi emptying into gulf satellite pictures](http://eoimages.gsfc.nasa.gov/images/imagerecords/38000/38273/GulfofMexico_AMO_2009097_lrg.jpg)
+        *   [2015 Dead Zone](http://www.nola.com/environment/index.ssf/2015/08/2015_gulf_dead_zone_larger_tha.html)
     2.  Water Erosion
         *   google maps of Mississippi around stl and south for meanders and oxbows
         *   Alluvial fan pic from denali trip?
