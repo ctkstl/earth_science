@@ -178,6 +178,7 @@ permalink: /resources/
     4.  Phases and Eclipses
     5.  Tides
     6.  Earth’s Moon
+        *   [Picture of the Moon passing in front of the earth](http://apod.nasa.gov/apod/ap150807.html) and the [Video](https://www.youtube.com/watch?v=DMdhQsHbWTs)
 15. The Solar System
     1.  Models of the Solar System
     2.  Introducing the Solar System
@@ -186,6 +187,7 @@ permalink: /resources/
         *    [The color of light coming out of the sun](http://apod.nasa.gov/apod/ap150628.html)
     4.  The Inner Planets
         *    How big is the earth...roughly the same size as venus...how big is that? [See it passing in front of the sun.](http://www.nasa.gov/feature/goddard/scientists-study-venus-atmosphere-through-transit)
+        *    [Visualizing how many earths could fit into the sun. If each small blue ball represents the earth, the large clear-plastic ball is the size the sun would be.](http://i.imgur.com/U5tdA1e.jpg)
     5.  The Outer Planets
     6.  Small Solar System Objects
         *    [The "Not Planets"](http://www.planetary.org/blogs/emily-lakdawalla/2015/07141338-the-not-planets.html)
