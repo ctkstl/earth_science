@@ -75,7 +75,7 @@ permalink: /resources/
         *   Less dangerous/expansive eruptions
             *   [Galeras](https://en.wikipedia.org/wiki/Galeras) is just a few miles from a large city in Colombia and erupts frequently, but hasn't posed a serious danger to the town or even the farmers working fields on the sides of the volcano.
     3.  Volcanic Landforms
-        *   Crater Lake Caldera
+        *   [Crater Lake Caldera](https://en.wikipedia.org/wiki/File:Crater_lake_oregon.jpg)
         *   Yellowstone Caldera
         *   Devil's tower
         *   Yosemite Half Dome
