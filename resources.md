@@ -29,6 +29,7 @@ permalink: /resources/
         *   Can minecraft output a topographic map of a world?
 2.  Minerals and Rocks
     1.  Properties of Minerals
+        *   A cave in Mexico with [very large crystals](https://en.wikipedia.org/wiki/File:Cristales_cueva_de_Naica.JPG)
     2.  Classifying Rocks
         *   Rock samples!
     3.  Igneous Rocks
