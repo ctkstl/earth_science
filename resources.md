@@ -38,6 +38,7 @@ permalink: /resources/
         *   [Igneous rocks in MIssouri](http://dnr.mo.gov/geology/docs/gcsummer8.pdf)
     4.  Sedimentary Rocks
         *   [Rock that was sea floor](http://epod.usra.edu/blog/2015/06/nevadas-valley-of-fire.html)
+        *   [Very large sandstone rock](https://en.wikipedia.org/wiki/Uluru) (largest rock in the world)
     5.  Metamorphic Rocks
     6.  The Rock Cycle
 3.  Plate Tectonics
