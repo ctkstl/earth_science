@@ -1,4 +1,5 @@
 ---
+title: Which Planets Sound Good to Live On?
 ---
 This has been reproduced from the "Wait But Why" blog post about [SpaceX's plans to establish a human colony on mars](http://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html), it is an extremely interesting article, containing the following as an aside. It has been edited for continuity and a yunger audiance.
 
