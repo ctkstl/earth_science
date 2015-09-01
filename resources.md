@@ -38,6 +38,7 @@ permalink: /resources/
         *   [Igneous rocks in MIssouri](http://dnr.mo.gov/geology/docs/gcsummer8.pdf)
     4.  Sedimentary Rocks
         *   [Rock that was sea floor](http://epod.usra.edu/blog/2015/06/nevadas-valley-of-fire.html)
+        *   [Very large sandstone rock](https://en.wikipedia.org/wiki/Uluru) (largest rock in the world)
     5.  Metamorphic Rocks
     6.  The Rock Cycle
 3.  Plate Tectonics
@@ -75,7 +76,7 @@ permalink: /resources/
         *   Less dangerous/expansive eruptions
             *   [Galeras](https://en.wikipedia.org/wiki/Galeras) is just a few miles from a large city in Colombia and erupts frequently, but hasn't posed a serious danger to the town or even the farmers working fields on the sides of the volcano.
     3.  Volcanic Landforms
-        *   Crater Lake Caldera
+        *   [Crater Lake Caldera](https://en.wikipedia.org/wiki/File:Crater_lake_oregon.jpg)
         *   Yellowstone Caldera
         *   Devil's tower
         *   Yosemite Half Dome
