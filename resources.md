@@ -179,6 +179,7 @@ permalink: /resources/
     1.  The Sky from Earth
     2.  Earth in Space
     3.  Gravity and Motion
+        *   [What is an orbit?](https://ctkstl.github.io/earth_science/pages/What-is-an-Orbit.html)
     4.  Phases and Eclipses
     5.  Tides
     6.  Earth’s Moon
@@ -186,6 +187,8 @@ permalink: /resources/
 15. The Solar System
     1.  Models of the Solar System
     2.  Introducing the Solar System
+        *    [Distances between the planet](https://ctkstl.github.io/earth_science/pages/Relative-Planet-distances.html)
+        *    [Which Planets Sound Good to Live On?](https://ctkstl.github.io/earth_science/pages/Planets-To-Live-On.html)
     3.  The Sun
         *    [Cool video showing sunspots rotating around the sun](http://apod.nasa.gov/apod/ap150629.html)
         *    [The color of light coming out of the sun](http://apod.nasa.gov/apod/ap150628.html)
