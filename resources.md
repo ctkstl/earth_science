@@ -168,8 +168,11 @@ permalink: /resources/
         *   Compare prediction accuracy: 1hr, 8hr, 1day, 3day, 7day
 13. Climate and Climate Change
     1.  What Causes Climate?
+        *   Where does St. Louis's weather patterns come from? - Generally the west...cold dry air from over the plains and canada. Warm moist air comes up from the gulf of mexico.
     2.  Climate Regions
     3.  Changes in Climate
+        *   Fossils of lush climate in antartica 
+        *   North american glaciers
     4.  Human Activities and Climate Change
         *   CO2 readings graph
         *   Temperature graph
@@ -177,24 +180,35 @@ permalink: /resources/
         *   Feedback Loops
 14. Earth, Moon, and Sun
     1.  The Sky from Earth
+        *   Book says we can see: The Moon, Planets, Meteors and Comets, and Stars in the night sky...important omissions: man-made satellites, and **Galaxies**
     2.  Earth in Space
+        *   Seasons demo
     3.  Gravity and Motion
         *   [What is an orbit?](https://ctkstl.github.io/earth_science/pages/What-is-an-Orbit.html)
+        *   Why aren't black-holes dangerous? They're just gravity...you're no more likely to fall into one than you are to fall into the sun.
+        *   Video of astronaut dropping a hammer and a feather on the moon.
     4.  Phases and Eclipses
+        *   Solar eclips pictures, from space station. 
+        *   Lunar eclipse pictures, include time laps showing the earth's shadown zone
+        *   Why isn't there a solar/lunar eclipse every month....inclination of the moon's orbit.
+        *   Same side of the moon always faces the earth, but it [wobbles](https://en.wikipedia.org/wiki/Orbit_of_the_Moon#/media/File:Lunar_libration_with_phase2.gif)
     5.  Tides
     6.  Earth’s Moon
         *   [Picture of the Moon passing in front of the earth](http://apod.nasa.gov/apod/ap150807.html) and the [Video](https://www.youtube.com/watch?v=DMdhQsHbWTs)
+        *   Pictues and videos from the surface...jumping, driving the rover, etc
 15. The Solar System
     1.  Models of the Solar System
     2.  Introducing the Solar System
         *    [Distances between the planet](https://ctkstl.github.io/earth_science/pages/Relative-Planet-distances.html)
         *    [Which Planets Sound Good to Live On?](https://ctkstl.github.io/earth_science/pages/Planets-To-Live-On.html)
+        *    pictures of the planets
     3.  The Sun
         *    [Cool video showing sunspots rotating around the sun](http://apod.nasa.gov/apod/ap150629.html)
         *    [The color of light coming out of the sun](http://apod.nasa.gov/apod/ap150628.html)
-    4.  The Inner Planets
-        *    How big is the earth...roughly the same size as venus...how big is that? [See it passing in front of the sun.](http://www.nasa.gov/feature/goddard/scientists-study-venus-atmosphere-through-transit)
+        *    size of solar flares 
         *    [Visualizing how many earths could fit into the sun. If each small blue ball represents the earth, the large clear-plastic ball is the size the sun would be.](http://i.imgur.com/U5tdA1e.jpg)
+        4.  The Inner Planets
+        *    How big is the earth...roughly the same size as venus...how big is that? [See it passing in front of the sun.](http://www.nasa.gov/feature/goddard/scientists-study-venus-atmosphere-through-transit)
     5.  The Outer Planets
     6.  Small Solar System Objects
         *    [The "Not Planets"](http://www.planetary.org/blogs/emily-lakdawalla/2015/07141338-the-not-planets.html)
