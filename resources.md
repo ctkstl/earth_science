@@ -207,14 +207,25 @@ permalink: /resources/
         *    [The color of light coming out of the sun](http://apod.nasa.gov/apod/ap150628.html)
         *    size of solar flares 
         *    [Visualizing how many earths could fit into the sun. If each small blue ball represents the earth, the large clear-plastic ball is the size the sun would be.](http://i.imgur.com/U5tdA1e.jpg)
-        4.  The Inner Planets
+    4.  The Inner Planets
         *    How big is the earth...roughly the same size as venus...how big is that? [See it passing in front of the sun.](http://www.nasa.gov/feature/goddard/scientists-study-venus-atmosphere-through-transit)
+        *    Pictures, videos of planets, Venus and Mars surface
+        *    Mars rover path (overlay on STL?)
+        *    Pictures of phobos demios from the surface (dots)
     5.  The Outer Planets
+        *   Up close of Europa's cracks, Io's volcanoes, Enceladus's gysers, Surface of Titan
     6.  Small Solar System Objects
         *    [The "Not Planets"](http://www.planetary.org/blogs/emily-lakdawalla/2015/07141338-the-not-planets.html)
+        *    Animation of known asteroids
+        *    NEO's, including the 2039 one
+        *    Pluto pictures animation
+        *    Ceres pictures, bright light?
+        *    Vesta pictures, others
 16. Stars, Galaxies, and the Universe
     1.  Telescopes
     2.  The Scale of the Universe
+        *   What stars are close?
+        *   Star size comparison animation, graphic
     3.  Characteristics of Stars
     4.  Lives of Stars
     5.  Star Systems and Galaxies
