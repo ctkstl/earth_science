@@ -47,15 +47,18 @@ permalink: /resources/
         *   Note: P.102 not to scale! Mid ocear ridge is very far from subduction trench.
         *   Iceland is part of the ridge, you can see [places where it is spreading](http://epod.usra.edu/blog/2015/08/flosagja-canyon-thingvellir-national-park-iceland.html). [More](http://media.smithsonianmag.com/images/Life-List-Iceland-Mid-Atlantic-Ridge-631.jpg), [More](https://en.wikipedia.org/wiki/File:Iceland_mid_atlantic_ridge.JPG), [And another, underwater](http://www.divephotoguide.com/images/lightboximage/orig/1393387697.jpg)
     3.  The Theory of Plate Tectonics
-        *   Ethopia opening up into a new ocean
+        *   Ethopia opening up into a new ocean [Live Science](http://www.livescience.com/10592-giant-crack-africa-create-ocean.html)
+        *   [San Andreas Fault Movement](https://en.wikipedia.org/wiki/San_Andreas_Fault#/media/File:Sanandreas.jpg)
 4.  Earthquakes
     1.  Forces in the Earth’s Crust
-        *   San Andreas fault flyover
+        *   [San Andreas fault](https://www.youtube.com/watch?v=ZxPTLmg0ZCw)
         *   See the fault in the Bonne Terre mine 
     2.  Earthquakes and Seismic Waves
-        *   Video: [Crack motion and liquifaction in the japan earthquake (many miles from epicenter)] (https://www.youtube.com/watch?v=rn3oAvmZY8k) 
+        *   Video: [Crack motion and liquifaction in the japan earthquake (many miles from epicenter)] (https://www.youtube.com/watch?v=rn3oAvmZY8k). [Another](https://www.youtube.com/watch?v=RJCidfj-x9M)
+        *   Tsunami [video](https://www.youtube.com/watch?v=yF693FqXX_A) [waves over the ocean](https://www.youtube.com/watch?v=w3AdFjklR50)[first waves hit, then get deeper](https://www.youtube.com/watch?v=yiENf1f1tIA)
+        *   Demo liquifaction with cornstarch and water
     3.  Monitoring Earthquakes
-        *   Phone Accelerometer Sisemograph
+        *   [Phone Accelerometer Sisemograph](http://ctrlq.org/earthquakes/seismograph.html) 
         *   [USGS Live Monitoring](http://earthquake.usgs.gov/earthquakes/map/), what’s up in Oklahoma?
 5.  Volcanoes
     1.  Volcanoes and Plate Tectonics
