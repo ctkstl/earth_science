@@ -43,6 +43,7 @@ permalink: /resources/
     6.  The Rock Cycle
 3.  Plate Tectonics
     1.  Drifting Continents
+        *   [Putting time in perspective](http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/Time-G-e1419172691756.pnghttp://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/Time-G-e1419172691756.png)
     2.  Sea-Floor Spreading
         *   Note: P.102 not to scale! Mid ocear ridge is very far from subduction trench.
         *   Iceland is part of the ridge, you can see [places where it is spreading](http://epod.usra.edu/blog/2015/08/flosagja-canyon-thingvellir-national-park-iceland.html). [More](http://media.smithsonianmag.com/images/Life-List-Iceland-Mid-Atlantic-Ridge-631.jpg), [More](https://en.wikipedia.org/wiki/File:Iceland_mid_atlantic_ridge.JPG), [And another, underwater](http://www.divephotoguide.com/images/lightboximage/orig/1393387697.jpg)
@@ -112,6 +113,7 @@ permalink: /resources/
         *   Fallout since 1945
     4.  The Geologic Time Scale
         *   Cosmos year calendar
+        *   [Putting time in perspective](http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/Time-G-e1419172691756.pnghttp://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/Time-G-e1419172691756.png)
     5.  Early Earth
     6.  Eras of Earth’s History
         *   Forests that grew but didn't decay
@@ -229,6 +231,7 @@ permalink: /resources/
     2.  The Scale of the Universe
         *   What stars are close?
         *   Star size comparison animation, graphic
+        *   [Putting time in perspective](http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/Time-G-e1419172691756.pnghttp://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/Time-G-e1419172691756.png)
     3.  Characteristics of Stars
     4.  Lives of Stars
     5.  Star Systems and Galaxies
