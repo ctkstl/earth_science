@@ -36,6 +36,11 @@ permalink: /resources/
         *   Compare a Lava Rock (glass/pumice) vs. a Magma Rock (granite)
         *   [A picture of pumice](http://epod.usra.edu/blog/2015/06/encore-reticulite.html) that can float on water.
         *   [Igneous rocks in MIssouri](http://dnr.mo.gov/geology/docs/gcsummer8.pdf)
+        *   [Youtube videos on rocks with rock flow chart] (https://www.youtube.com/watch?v=aCnAF1Opt8M)
+        *   [Sedimentary] (https://www.youtube.com/watch?v=Etu9BWbuDlY)
+        *   [Metamorphic] (https://www.youtube.com/watch?v=1oQ1J0w3x0o)
+        *   [Mineral Rock Anthem] (https://www.youtube.com/watch?v=FqFazOFtCVk)
+
     4.  Sedimentary Rocks
         *   [Rock that was sea floor](http://epod.usra.edu/blog/2015/06/nevadas-valley-of-fire.html)
         *   [Very large sandstone rock](https://en.wikipedia.org/wiki/Uluru) (largest rock in the world)
