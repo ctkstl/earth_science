@@ -63,6 +63,7 @@ permalink: /resources/
         *   Video: [Crack motion and liquifaction in the japan earthquake (many miles from epicenter)] (https://www.youtube.com/watch?v=rn3oAvmZY8k). [Another](https://www.youtube.com/watch?v=RJCidfj-x9M)
         *   Tsunami [video](https://www.youtube.com/watch?v=yF693FqXX_A) [waves over the ocean](https://www.youtube.com/watch?v=w3AdFjklR50)[first waves hit, then get deeper](https://www.youtube.com/watch?v=yiENf1f1tIA)
         *   Demo liquifaction with cornstarch and water
+        *   [New Madrid Fault](http://earthquake.usgs.gov/learn/topics/nmsz/)
     3.  Monitoring Earthquakes
         *   [Phone Accelerometer Sisemograph](http://ctrlq.org/earthquakes/seismograph.html) 
         *   [USGS Live Monitoring](http://earthquake.usgs.gov/earthquakes/map/), what’s up in Oklahoma?
