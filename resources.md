@@ -91,9 +91,9 @@ permalink: /resources/
             *   [Galeras](https://en.wikipedia.org/wiki/Galeras) is just a few miles from a large city in Colombia and erupts frequently, but hasn't posed a serious danger to the town or even the farmers working fields on the sides of the volcano.
     3.  Volcanic Landforms
         *   [Crater Lake Caldera](https://en.wikipedia.org/wiki/File:Crater_lake_oregon.jpg)
-        *   Yellowstone Caldera
-        *   Devil's tower
-        *   Yosemite Half Dome
+        *   Yellowstone Caldera - [Its huge](https://commons.wikimedia.org/wiki/File:Yellowstone_Caldera_map2.jpg)
+        *   [Devil's tower](https://commons.wikimedia.org/wiki/File:The_Devil%27s_Tower,_Devil%27s_Tower_National_Monument_in_Northeastern_Wyoming_(90810).jpg)
+        *   [Yosemite Half Dome](https://commons.wikimedia.org/wiki/File:Girl_Posing_at_Glacier_Point_Yosemite_2013.jpg)
         *   Cinder Cone (mexico?)
 6.  Weathering and Soil
     1.  Rocks and Weathering
