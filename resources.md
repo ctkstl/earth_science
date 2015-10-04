@@ -78,11 +78,15 @@ permalink: /resources/
             *   [Mt. St. Helens Reforming](https://www.youtube.com/watch?v=h6B1myUKAS4), this is an ongoing process.
             *   Mt. St. Helens... [before](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/St_Helens_before_1980_eruption_horizon_fixed.jpg/2560px-St_Helens_before_1980_eruption_horizon_fixed.jpg), [bulge before eruption](https://commons.wikimedia.org/wiki/File:MSH80_bulge_on_north_side_04-27-80.jpg),  [after](https://commons.wikimedia.org/wiki/File:MSH82_st_helens_spirit_lake_reflection_05-19-82.jpg),  [today](http://i.imgur.com/iMWteOW.jpg), [animation from early 2000s](https://commons.wikimedia.org/wiki/File:Mount_Saint_Helens-ffmpeg-600-1920x1080.ogg). [Side by side](http://www.audacityoftruth.org/wp-content/uploads/2014/10/Catastrophism.jpg).
             *   Compare to [Rainer](https://commons.wikimedia.org/wiki/File:Mount_Rainier_07.jpg), [Hood](https://commons.wikimedia.org/wiki/File:Mount_Hood_in_Trillium_Lake.jpg), [Shasta](https://commons.wikimedia.org/wiki/File:Mount_Shasta_%281%29.jpg), [Fuji](https://commons.wikimedia.org/wiki/File:Mount-fuji-kamakura.jpg)
-        *   Kileaua
+        *   Kilauea
             *   Kamoamoa fissure eruption
                 *   [Flowing lava](https://www.youtube.com/watch?v=5ncOb_gOjuQ) 
             *   Lava Lake
+                *   [From the air](https://www.youtube.com/watch?v=QNpXMPuVcsI)
+                *   [Crust Breakout](https://www.youtube.com/watch?v=PbG-8URKnm8)
             *   Flowing into town
+                *   [House and Transfer Station](https://www.youtube.com/watch?v=ddzU-rkzKF0)
+                *   [Into the Ocean](https://youtu.be/2dww24LeoEk?t=1m50s)
         *   Less dangerous/expansive eruptions
             *   [Galeras](https://en.wikipedia.org/wiki/Galeras) is just a few miles from a large city in Colombia and erupts frequently, but hasn't posed a serious danger to the town or even the farmers working fields on the sides of the volcano.
     3.  Volcanic Landforms
