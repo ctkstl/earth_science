@@ -207,6 +207,7 @@ permalink: /resources/
         *    [Distances between the planet](https://ctkstl.github.io/earth_science/pages/Relative-Planet-distances.html)
         *    [Which Planets Sound Good to Live On?](https://ctkstl.github.io/earth_science/pages/Planets-To-Live-On.html)
         *    pictures of the planets
+        *    [Guess which picture is of which planet](http://www.planetary.org/blogs/emily-lakdawalla/2015/09300800-the-solar-system-at-1-km.html)
     3.  The Sun
         *    [Cool video showing sunspots rotating around the sun](http://apod.nasa.gov/apod/ap150629.html)
         *    [The color of light coming out of the sun](http://apod.nasa.gov/apod/ap150628.html)
