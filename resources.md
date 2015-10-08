@@ -36,6 +36,11 @@ permalink: /resources/
         *   Compare a Lava Rock (glass/pumice) vs. a Magma Rock (granite)
         *   [A picture of pumice](http://epod.usra.edu/blog/2015/06/encore-reticulite.html) that can float on water.
         *   [Igneous rocks in MIssouri](http://dnr.mo.gov/geology/docs/gcsummer8.pdf)
+        *   [Youtube videos on rocks with rock flow chart] (https://www.youtube.com/watch?v=aCnAF1Opt8M)
+        *   [Sedimentary] (https://www.youtube.com/watch?v=Etu9BWbuDlY)
+        *   [Metamorphic] (https://www.youtube.com/watch?v=1oQ1J0w3x0o)
+        *   [Mineral Rock Anthem] (https://www.youtube.com/watch?v=FqFazOFtCVk)
+
     4.  Sedimentary Rocks
         *   [Rock that was sea floor](http://epod.usra.edu/blog/2015/06/nevadas-valley-of-fire.html)
         *   [Very large sandstone rock](https://en.wikipedia.org/wiki/Uluru) (largest rock in the world)
@@ -43,7 +48,7 @@ permalink: /resources/
     6.  The Rock Cycle
 3.  Plate Tectonics
     1.  Drifting Continents
-        *   [Putting time in perspective](http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/Time-G-e1419172691756.pnghttp://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/Time-G-e1419172691756.png)
+        *   [Putting time in perspective](http://ctkstl.github.io/earth_science/images/PuttingTimeInPerspective-G.png)
     2.  Sea-Floor Spreading
         *   Note: P.102 not to scale! Mid ocear ridge is very far from subduction trench.
         *   Iceland is part of the ridge, you can see [places where it is spreading](http://epod.usra.edu/blog/2015/08/flosagja-canyon-thingvellir-national-park-iceland.html). [More](http://media.smithsonianmag.com/images/Life-List-Iceland-Mid-Atlantic-Ridge-631.jpg), [More](https://en.wikipedia.org/wiki/File:Iceland_mid_atlantic_ridge.JPG), [And another, underwater](http://www.divephotoguide.com/images/lightboximage/orig/1393387697.jpg)
@@ -58,6 +63,7 @@ permalink: /resources/
         *   Video: [Crack motion and liquifaction in the japan earthquake (many miles from epicenter)] (https://www.youtube.com/watch?v=rn3oAvmZY8k). [Another](https://www.youtube.com/watch?v=RJCidfj-x9M)
         *   Tsunami [video](https://www.youtube.com/watch?v=yF693FqXX_A) [waves over the ocean](https://www.youtube.com/watch?v=w3AdFjklR50)[first waves hit, then get deeper](https://www.youtube.com/watch?v=yiENf1f1tIA)
         *   Demo liquifaction with cornstarch and water
+        *   [New Madrid Fault](http://earthquake.usgs.gov/learn/topics/nmsz/)
     3.  Monitoring Earthquakes
         *   [Phone Accelerometer Sisemograph](http://ctrlq.org/earthquakes/seismograph.html) 
         *   [USGS Live Monitoring](http://earthquake.usgs.gov/earthquakes/map/), what’s up in Oklahoma?
@@ -67,24 +73,29 @@ permalink: /resources/
         *   Magma (underground) vs. Lava (on the surface)
         *   Mt. St. Helens
             *   1980 Collapse/Eruption [1- 16:30](https://www.youtube.com/watch?v=3zHgwiOK3oU) 
-            *   [2- Animation](https://www.youtube.com/watch?v=IhU6jml6NY4)
+            *   [2- Animation](https://www.youtube.com/watch?v=IhU6jml6NY4) [other1](http://stream1.gifsoup.com/view1/1701838/mt-st-helens-erupting-o.gif), [other2](http://stream1.gifsoup.com/view1/20140506/5032019/mount-st-helens-erupts-o.gif)
             *   [Watching the next mountain over explode](http://imgur.com/uKnHLek)
             *   [Mt. St. Helens Reforming](https://www.youtube.com/watch?v=h6B1myUKAS4), this is an ongoing process.
-            *   Mt. St. Helens... before/after/[today](http://i.imgur.com/iMWteOW.jpg)
-            *   Compare to Rainer, Hood, Shasta, Fuji
-        *   Kileaua
+            *   Mt. St. Helens... [before](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/St_Helens_before_1980_eruption_horizon_fixed.jpg/2560px-St_Helens_before_1980_eruption_horizon_fixed.jpg), [bulge before eruption](https://commons.wikimedia.org/wiki/File:MSH80_bulge_on_north_side_04-27-80.jpg),  [after](https://commons.wikimedia.org/wiki/File:MSH82_st_helens_spirit_lake_reflection_05-19-82.jpg),  [today](http://i.imgur.com/iMWteOW.jpg), [animation from early 2000s](https://commons.wikimedia.org/wiki/File:Mount_Saint_Helens-ffmpeg-600-1920x1080.ogg). [Side by side](http://www.audacityoftruth.org/wp-content/uploads/2014/10/Catastrophism.jpg).
+            *   Compare to [Rainier](https://commons.wikimedia.org/wiki/File:Mount_Rainier_07.jpg), [Hood](https://commons.wikimedia.org/wiki/File:Mount_Hood_in_Trillium_Lake.jpg), [Shasta](https://commons.wikimedia.org/wiki/File:Mount_Shasta_%281%29.jpg), [Fuji](https://commons.wikimedia.org/wiki/File:Mount-fuji-kamakura.jpg)
+        *   Kilauea
             *   Kamoamoa fissure eruption
                 *   [Flowing lava](https://www.youtube.com/watch?v=5ncOb_gOjuQ) 
             *   Lava Lake
+                *   [From the air](https://www.youtube.com/watch?v=QNpXMPuVcsI)
+                *   [Crust Breakout](https://www.youtube.com/watch?v=PbG-8URKnm8)
             *   Flowing into town
+                *   [House and Transfer Station](https://www.youtube.com/watch?v=ddzU-rkzKF0)
+                *   [Into the Ocean](https://youtu.be/2dww24LeoEk?t=1m50s)
         *   Less dangerous/expansive eruptions
             *   [Galeras](https://en.wikipedia.org/wiki/Galeras) is just a few miles from a large city in Colombia and erupts frequently, but hasn't posed a serious danger to the town or even the farmers working fields on the sides of the volcano.
     3.  Volcanic Landforms
         *   [Crater Lake Caldera](https://en.wikipedia.org/wiki/File:Crater_lake_oregon.jpg)
-        *   Yellowstone Caldera
-        *   Devil's tower
-        *   Yosemite Half Dome
-        *   Cinder Cone (mexico?)
+        *   Yellowstone Caldera - [Its huge](https://commons.wikimedia.org/wiki/File:Yellowstone_Caldera_map2.jpg)
+        *   [Devil's tower](https://commons.wikimedia.org/wiki/File:The_Devil%27s_Tower,_Devil%27s_Tower_National_Monument_in_Northeastern_Wyoming_(90810).jpg)
+        *   [Yosemite Half Dome](https://commons.wikimedia.org/wiki/File:Girl_Posing_at_Glacier_Point_Yosemite_2013.jpg)
+        *   [Lassen Cinder Cone](https://en.wikipedia.org/wiki/Cinder_Cone_and_the_Fantastic_Lava_Beds)
+        *   Compare in Google Earth: Mauna Loa, Mauna Kea, Kilauea - Hawaii; Mount St. Helens, Mount Rainier - WA; Lassen Cinder Cone, CA (set vertical exageration to 2)
 6.  Weathering and Soil
     1.  Rocks and Weathering
     2.  How Soil Forms
@@ -113,7 +124,7 @@ permalink: /resources/
         *   Fallout since 1945
     4.  The Geologic Time Scale
         *   Cosmos year calendar
-        *   [Putting time in perspective](http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/Time-G-e1419172691756.pnghttp://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/Time-G-e1419172691756.png)
+        *   [Putting time in perspective](http://ctkstl.github.io/earth_science/images/PuttingTimeInPerspective-G.png)
     5.  Early Earth
     6.  Eras of Earth’s History
         *   Forests that grew but didn't decay
@@ -194,6 +205,7 @@ permalink: /resources/
         *   Video of astronaut dropping a hammer and a feather on the moon.
     4.  Phases and Eclipses
         *   Solar eclips pictures, from space station. 
+        *   [pics from space] (http://www.theatlantic.com/photo/2015/09/images-from-offworld/406963/)
         *   Lunar eclipse pictures, include time laps showing the earth's shadown zone
         *   Why isn't there a solar/lunar eclipse every month....inclination of the moon's orbit.
         *   Same side of the moon always faces the earth, but it [wobbles](https://en.wikipedia.org/wiki/Orbit_of_the_Moon#/media/File:Lunar_libration_with_phase2.gif)
@@ -232,7 +244,7 @@ permalink: /resources/
     2.  The Scale of the Universe
         *   What stars are close?
         *   Star size comparison animation, graphic
-        *   [Putting time in perspective](http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/Time-G-e1419172691756.pnghttp://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/Time-G-e1419172691756.png)
+        *   [Putting time in perspective](http://ctkstl.github.io/earth_science/images/PuttingTimeInPerspective-G.png)
     3.  Characteristics of Stars
     4.  Lives of Stars
     5.  Star Systems and Galaxies
