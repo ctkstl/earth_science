@@ -98,6 +98,7 @@ permalink: /resources/
         *   Compare in Google Earth: Mauna Loa, Mauna Kea, Kilauea - Hawaii; Mount St. Helens, Mount Rainier - WA; Lassen Cinder Cone, CA (set vertical exageration to 2)
 6.  Weathering and Soil
     1.  Rocks and Weathering
+        *   [Test Soil pH](https://www.oercommons.org/authoring/4962-garden-science-soil-ph-lab/view)
     2.  How Soil Forms
     3.  Soil Conservation
 7.  Erosion and Deposition - Start of Book 2
