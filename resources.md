@@ -114,7 +114,7 @@ permalink: /resources/
     4.  Wave erosion
         *   Washington State Spit, hole
     5.  Wind erosion
-        *   Death valley sailing rocks
+        *   Death valley sailing stones [1](https://en.wikipedia.org/wiki/File:2006_1205_135618-DVNP-RACETRACK.jpg), [2](https://en.wikipedia.org/wiki/File:Racetrack-Playa-Death-Valley-2.jpg), [3](https://en.wikipedia.org/wiki/File:Death_8_bg_082303.jpg)
         *   Sand dunes
 8.  A Trip Through Geologic Time - Contrast with Genesis 1-3, explain Catholic non-literal doctrine.
     1.  Fossils
