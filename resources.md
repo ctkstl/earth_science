@@ -111,6 +111,8 @@ permalink: /resources/
         *   Sinkholes in the news
     3.  Glacial Erosion
         *   Patagonia pics
+        *   [Ice age] (https://www.youtube.com/watch?v=5jPAcTkX5Ew)
+        *   Photos of receding glaciers/moraines: 
     4.  Wave erosion
         *   Washington State Spit, hole
     5.  Wind erosion
