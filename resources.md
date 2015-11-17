@@ -109,6 +109,7 @@ permalink: /resources/
         *   google maps of Mississippi around stl and south for meanders and oxbows
         *   Alluvial fan pic from denali trip?
         *   Sinkholes in the news
+        *   [Mississippi Watershead](http://www2.epa.gov/sites/production/files/2013-06/gulfofmexico.jpg)
     3.  Glacial Erosion
         *   Patagonia pics
         *   [Ice age] (https://www.youtube.com/watch?v=5jPAcTkX5Ew)
