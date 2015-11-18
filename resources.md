@@ -114,6 +114,8 @@ permalink: /resources/
         *   Patagonia pics
         *   [Ice age] (https://www.youtube.com/watch?v=5jPAcTkX5Ew)
         *   Photos of receding glaciers/moraines: 
+        *   [Video Glacial Retreat] (https://www.youtube.com/watch?v=Pem4fpMwkSQ)
+        *   [Formation of Moraines] (https://www.youtube.com/watch?v=rkPKCWoPQP4)
     4.  Wave erosion
         *   Washington State Spit, hole
     5.  Wind erosion
