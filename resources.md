@@ -252,7 +252,8 @@ permalink: /resources/
     1.  Telescopes
     2.  The Scale of the Universe
         *   What stars are close?
-        *   Star size comparison animation, graphic
+        *   Star size comparison [animation](https://www.youtube.com/watch?v=fKTu6B4Rgek), [graphic](https://en.wikipedia.org/wiki/File:Star-sizes.jpg)
+        *   [Comparison of earth features to space features](http://astronomycentral.co.uk/astronomy-the-size-of-stuff/)
         *   [Putting time in perspective](http://ctkstl.github.io/earth_science/images/PuttingTimeInPerspective-G.png)
     3.  Characteristics of Stars
     4.  Lives of Stars
