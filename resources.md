@@ -207,6 +207,7 @@ permalink: /resources/
         *   Book says we can see: The Moon, Planets, Meteors and Comets, and Stars in the night sky...important omissions: man-made satellites, and **Galaxies**
     2.  Earth in Space
         *   Seasons demo
+        *   [Earth rotating with a fixed space background](http://giant.gfycat.com/InexperiencedQuestionableAegeancat.gif)
     3.  Gravity and Motion
         *   [What is an orbit?](https://ctkstl.github.io/earth_science/pages/What-is-an-Orbit.html)
         *   Why aren't black-holes dangerous? They're just gravity...you're no more likely to fall into one than you are to fall into the sun.
