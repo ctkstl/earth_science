@@ -131,6 +131,8 @@ permalink: /resources/
     4.  The Geologic Time Scale
         *   Cosmos year calendar
         *   [Putting time in perspective](http://ctkstl.github.io/earth_science/images/PuttingTimeInPerspective-G.png)
+        *   [History of earth over the distance from Los Angeles to New York](http://www.businessinsider.com/animated-timeline-earth-history-2015-11
+)
     5.  Early Earth
     6.  Eras of Earth’s History
         *   Forests that grew but didn't decay
