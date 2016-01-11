@@ -222,6 +222,7 @@ permalink: /resources/
     6.  Earth’s Moon
         *   [Picture of the Moon passing in front of the earth](http://apod.nasa.gov/apod/ap150807.html) and the [Video](https://www.youtube.com/watch?v=DMdhQsHbWTs)
         *   Pictues and videos from the surface...jumping, driving the rover, etc
+        *   [Animation showing the correct distance/size relationship between the earth and moon](https://i.imgur.com/gk9nSeI.gifv)
 15. The Solar System
     1.  Models of the Solar System
     2.  Introducing the Solar System
