@@ -218,7 +218,10 @@ permalink: /resources/
         *   Lunar eclipse pictures, include time laps showing the earth's shadown zone
         *   Why isn't there a solar/lunar eclipse every month....inclination of the moon's orbit.
         *   Same side of the moon always faces the earth, but it [wobbles](https://en.wikipedia.org/wiki/Orbit_of_the_Moon#/media/File:Lunar_libration_with_phase2.gif)
-    5.  Tides
+    5.  TidesC
+        *   Bay of Fundy, Canada  [Largest tides in the world](https://www.youtube.com/watch?v=EnDJ6_XpGfo)
+        *   [more bay of fundy] (https://www.youtube.com/watch?v=OP0cpXpw8yk)
+        *   [Why two tides a day?] (https://www.youtube.com/watch?v=gftT3wHJGtg)
     6.  Earth’s Moon
         *   [Picture of the Moon passing in front of the earth](http://apod.nasa.gov/apod/ap150807.html) and the [Video](https://www.youtube.com/watch?v=DMdhQsHbWTs)
         *   [how the Earth looks from the Moon](http://apod.nasa.gov/apod/ap160104.html)
