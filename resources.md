@@ -235,6 +235,7 @@ permalink: /resources/
         *    pictures of the planets
         *    [Guess which picture is of which planet](http://www.planetary.org/blogs/emily-lakdawalla/2015/09300800-the-solar-system-at-1-km.html)
     3.  The Sun
+        *   [They Might be Giants Song!] (https://www.youtube.com/watch?v=Oyz7e8iQ6Uo)
         *    [Cool video showing sunspots rotating around the sun](http://apod.nasa.gov/apod/ap150629.html)
         *    [The color of light coming out of the sun](http://apod.nasa.gov/apod/ap150628.html)
         *    size of solar flares 
