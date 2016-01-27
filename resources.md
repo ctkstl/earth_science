@@ -295,17 +295,33 @@ permalink: /resources/
             *   [Enceladus](https://commons.wikimedia.org/wiki/File:Enceladus_%28Mond%29_%287448582%29.jpg)
             *   [Water Volcano erupting on Enceladus](https://commons.wikimedia.org/wiki/File:Cryovolcanism_on_enceladus.jpg)
             *   [Closeup of Ice Ridges on Enceladus](https://commons.wikimedia.org/wiki/File:Enceladus_%28Mond%29_%287448584%29.jpg)
+        *   Uranus
+            *    [Uranus](https://commons.wikimedia.org/wiki/File:Uranus.jpg)
+            *    [With Clouds, Rings, and Moons (from hubble)](https://commons.wikimedia.org/wiki/File:Uranusandrings.jpg)
+        *   Neptune
+            *    [Neptune](https://commons.wikimedia.org/wiki/File:Neptune_Full.jpg)
+            *    [Moon Triton](https://commons.wikimedia.org/wiki/File:Global_Color_Mosaic_of_Triton_(9467442336).jpg)
     6.  Small Solar System Objects
         *    [The "Not Planets"](http://www.planetary.org/blogs/emily-lakdawalla/2015/07141338-the-not-planets.html)
-        *    Animation of known asteroids
-        *    NEO's, including the 2039 one
-        *    Pluto pictures animation
-        *    Ceres pictures, bright light?
-        *    Vesta pictures, others
+        *    [Animation of known asteroids as they are discovered](https://www.youtube.com/watch?v=BKKg4lZ_o-Y) Blue circles are planets, white dots are when they are discovered, they quickly fade to: green dots for normal asteroids, red dots for ones that cross earth's orbit, yellow dots get close to earth but don't cross. The dots are **much** larger than the size of the objects they represent.
+        *    [Asteroids (aka minor planets) and Comets visited by spacecraft](https://en.wikipedia.org/wiki/List_of_minor_planets_and_comets_visited_by_spacecraft)
+        *    [Bodies with orbits that cross earth's (aka Potentially Hazardous)](https://commons.wikimedia.org/wiki/File:Potentially_Hazardous_Asteroids_2013.png)
+        *    Pluto
+             *    [Pluto](https://commons.wikimedia.org/wiki/File:NH-Pluto-color-NewHorizons-20150713-full.png)
+             *    [New Horizon Flyby Animation](https://commons.wikimedia.org/wiki/File:The_Pluto_System_As_Seen_By_New_Horizons_Spacecraft.webm)
+             *    [Closeup](https://commons.wikimedia.org/wiki/File:NH-Pluto-SputnikPlanum-HillaryMontes-NorgayMontes-20150714-fr.jpg)
+             *    [Very Close](https://commons.wikimedia.org/wiki/File:Pluto%27s_Surface.png)
+             *    [Charon Moon](https://commons.wikimedia.org/wiki/File:Charon-9-10-15.jpg)
+             *    [Size Comparison](https://commons.wikimedia.org/wiki/File:Pluto_Charon_Moon_Earth_Comparison.png)
+        *    Ceres - Largest in the astroid belt
+             *    [Ceres](https://commons.wikimedia.org/wiki/File:Ceresintruecolor.png)
+             *    [Bright Spot Animation](https://commons.wikimedia.org/wiki/File:Ceres-bright-spots-animated_gif_(slow_frame_rate).gif)
+             *    [A Large Mountain](https://commons.wikimedia.org/wiki/File:PIA19618-Ceres-PyramidShapedMountain-Dawn-20150806.jpg)
 16. Stars, Galaxies, and the Universe
     1.  Telescopes
     2.  The Scale of the Universe
-        *   What stars are close?
+        *   [Map of stars within 12.5 light years of earth](http://www.atlasoftheuniverse.com/12lys.html)
+        *   [Simple map of nearby stars](https://commons.wikimedia.org/wiki/File:PIA18003-NASA-WISE-StarsNearSun-20140425-2.png)
         *   Star size comparison [animation](https://www.youtube.com/watch?v=fKTu6B4Rgek), [graphic](https://en.wikipedia.org/wiki/File:Star-sizes.jpg)
         *   [Comparison of earth features to space features](http://astronomycentral.co.uk/astronomy-the-size-of-stuff/)
         *   [Putting time in perspective](http://ctkstl.github.io/earth_science/images/PuttingTimeInPerspective-G.png)
@@ -324,5 +340,3 @@ permalink: /resources/
 Bonus:
 *   [Mangus Effect](http://imgur.com/KuayNFt)
 *   [Which falls faster a bowling ball or a feather?](http://www.iflscience.com/physics/dropping-bowling-ball-and-feather-vacuum)
-
-
