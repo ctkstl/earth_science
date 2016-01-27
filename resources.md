@@ -245,7 +245,24 @@ permalink: /resources/
     4.  The Inner Planets
         *    How big is the earth...roughly the same size as venus...how big is that? [See it passing in front of the sun.](http://www.nasa.gov/feature/goddard/scientists-study-venus-atmosphere-through-transit)
         *    Pictures, videos of planets, Venus and Mars surface
+             *   [Venus from space](https://commons.wikimedia.org/wiki/File:Venuspioneeruv.jpg)
+             *   [Radar map of venus](https://commons.wikimedia.org/wiki/File:Venus_globe.jpg)
+             *   [Earth size comparison](https://commons.wikimedia.org/wiki/File:Venus_Earth_Comparison.png)
+             *   Only a few (short lived 20min-2hrs) [soviet probes landed](http://mentallandscape.com/C_CatalogVenus.htm) on venus, the [best picture](http://i.imgur.com/gUgFJGp.jp)
+             *   [From the Hubble Space Telescope](https://commons.wikimedia.org/wiki/File:Mars_Hubble.jpg) (which orbits earth), you can see the ice caps and some thin clouds.
+             *   [Valles Marineris](https://commons.wikimedia.org/wiki/File:Mars_Valles_Marineris.jpeg) The biggest canyon in the solar system.
+             *   [Earth size comparison](https://commons.wikimedia.org/wiki/File:Mars,_Earth_size_comparison.jpg)
+             *   [Sunset on Mars](https://commons.wikimedia.org/wiki/File:MarsSunset.jpg)
+             *   [Opportunity on a crater rim](https://commons.wikimedia.org/wiki/File:01_SS_01_Endurance_B101R1.jpg)
+             *   [Curosity view of Mount Sharp](https://commons.wikimedia.org/wiki/File:PIA19912-MarsCuriosityRover-MountSharp-20151002.jpg)
         *    Mars rover path (overlay on STL?)
+        *    Mars rover paths in googl earth
+             1. Open Google Earth
+             2. Go to View -> Explore -> Mars
+             3. In the layers box (bottom left) expand "Rovers and Landers"
+             4. Double Click on "MER Opportunity Rover" and google earth will take you to it. You should be able to see the "Travers Path" for it, where it has driven over the last 12+ year.
+             5. Repeat with Curosity Rover.
+             6. Find Olympus Mons (solar system's biggest mountain), Valles Marineris (solar system's biggest canyon).
         *    Pictures of phobos demios from the surface (dots)
     5.  The Outer Planets
         *   Up close of Europa's cracks, Io's volcanoes, Enceladus's gysers, Surface of Titan
