@@ -244,11 +244,15 @@ permalink: /resources/
         *    [Visualizing how many earths could fit into the sun. If each small blue ball represents the earth, the large clear-plastic ball is the size the sun would be.](http://i.imgur.com/U5tdA1e.jpg)
     4.  The Inner Planets
         *    How big is the earth...roughly the same size as venus...how big is that? [See it passing in front of the sun.](http://www.nasa.gov/feature/goddard/scientists-study-venus-atmosphere-through-transit)
-        *    Pictures, videos of planets, Venus and Mars surface
+        *    Mercury
+            *    [From Messenger Probe](https://commons.wikimedia.org/wiki/File:MESSENGER_first_photo_of_unseen_side_of_Mercury_%28super_high_resolution%29.jpg)
+            *    [Comparison with Earth](https://commons.wikimedia.org/wiki/File:Mercury,_Earth_size_comparison.jpg)
+        *    Venus
              *   [Venus from space](https://commons.wikimedia.org/wiki/File:Venuspioneeruv.jpg)
              *   [Radar map of venus](https://commons.wikimedia.org/wiki/File:Venus_globe.jpg)
              *   [Earth size comparison](https://commons.wikimedia.org/wiki/File:Venus_Earth_Comparison.png)
              *   Only a few (short lived 20min-2hrs) [soviet probes landed](http://mentallandscape.com/C_CatalogVenus.htm) on venus, the [best picture](http://i.imgur.com/gUgFJGp.jp)
+        *   Mars
              *   [From the Hubble Space Telescope](https://commons.wikimedia.org/wiki/File:Mars_Hubble.jpg) (which orbits earth), you can see the ice caps and some thin clouds.
              *   [Valles Marineris](https://commons.wikimedia.org/wiki/File:Mars_Valles_Marineris.jpeg) The biggest canyon in the solar system.
              *   [Earth size comparison](https://commons.wikimedia.org/wiki/File:Mars,_Earth_size_comparison.jpg)
