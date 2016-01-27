@@ -269,8 +269,32 @@ permalink: /resources/
              6. Find Olympus Mons (solar system's biggest mountain), Valles Marineris (solar system's biggest canyon).
         *    Pictures of phobos demios from the surface (dots)
     5.  The Outer Planets
-        *   Up close of Europa's cracks, Io's volcanoes, Enceladus's gysers, Surface of Titan
-        *   [A picture](http://apod.nasa.gov/apod/ap160122.html) with the International Space Station (usually 300km away in this case 1140km, 100m in diameter) flying in front of Saturn (1,600,000,000km away, 116,464km in diameter) where they both appear the same size.
+        *   Jupiter
+            *   [From Voyager 1](https://commons.wikimedia.org/wiki/File:Jupiter.jpg)
+            *   [Clouds Moving](https://commons.wikimedia.org/wiki/File:Jupiter_from_Voyager_1_PIA02855_max_quality.ogv)
+            *   [After being hit by multiple pieces of a comet](https://commons.wikimedia.org/wiki/File:Jupiter_showing_SL9_impact_sites.jpg)
+            *   [Multiple Eclipse](https://commons.wikimedia.org/wiki/File:Galilean_satellite_triple_conjunction_2015-01-24.jpg)
+            *   [Moon Size Coomparison](https://commons.wikimedia.org/wiki/File:Galileanasnom.PNG)
+            *   [Europa](https://commons.wikimedia.org/wiki/File:Europa's_Frozen_Surface.jpg)
+            *   [Europa Cracks](https://commons.wikimedia.org/wiki/File:Europa_g1_true.jpg)
+            *   [Io](https://commons.wikimedia.org/wiki/File:Iosurface_gal.jpg)
+            *   [Io Eruption](https://commons.wikimedia.org/wiki/File:PIA00703.jpg)
+            *   [Ganymede](https://commons.wikimedia.org/wiki/File:Ganymed.jpg)
+            *   [Calisto](https://commons.wikimedia.org/wiki/File:Callisto_%28cropped%29-1.jpg)
+        *   Saturn
+            *   [From Cassini Probe](https://commons.wikimedia.org/wiki/File:Saturn_from_Cassini_Orbiter_%282004-10-06%29.jpg)
+            *   [Rings](https://commons.wikimedia.org/wiki/File:Anelli_di_Saturno_a_colori_naturali.jpg)
+            *   [Rings perturbed by a smal moon](https://commons.wikimedia.org/wiki/File:Daphnis_edge_wave_shadows.jpg)
+            *   [A picture](http://apod.nasa.gov/apod/ap160122.html) with the International Space Station (usually 300km away in this case 1140km, 100m in diameter) flying in front of Saturn (1,600,000,000km away, 116,464km in diameter) where they both appear the same size.
+            *   [Titan](https://commons.wikimedia.org/wiki/File:Titan_in_true_color.jpg)
+            *   [Titan Radar Map](https://commons.wikimedia.org/wiki/File:Map_of_Titan_-_April_2011.jpg)
+            *   [Radar Map of a Methane Lake on Titan](https://commons.wikimedia.org/wiki/File:A_Titan_lake.jpg)
+            *   [Huygens Probe landing on Titan](https://commons.wikimedia.org/wiki/File:Huygens_descent.ogg)
+            *   [Sufrace of Titan](https://commons.wikimedia.org/wiki/File:Huygens_surface_color_enhanced.jpg)
+            *   [Above Titan](https://commons.wikimedia.org/wiki/File:A_View_from_Huygens.jpg)
+            *   [Enceladus](https://commons.wikimedia.org/wiki/File:Enceladus_%28Mond%29_%287448582%29.jpg)
+            *   [Water Volcano erupting on Enceladus](https://commons.wikimedia.org/wiki/File:Cryovolcanism_on_enceladus.jpg)
+            *   [Closeup of Ice Ridges on Enceladus](https://commons.wikimedia.org/wiki/File:Enceladus_%28Mond%29_%287448584%29.jpg)
     6.  Small Solar System Objects
         *    [The "Not Planets"](http://www.planetary.org/blogs/emily-lakdawalla/2015/07141338-the-not-planets.html)
         *    Animation of known asteroids
