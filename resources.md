@@ -108,7 +108,7 @@ permalink: /resources/
     2.  Water Erosion
         *   google maps of Mississippi around stl and south for meanders and oxbows
         *   Alluvial fan pic from denali trip?
-        *   Sinkholes in the news
+        *   PBS Nova on Sinkholes
         *   [Mississippi Watershead](http://www2.epa.gov/sites/production/files/2013-06/gulfofmexico.jpg)
     3.  Glacial Erosion
         *   Patagonia pics
@@ -235,6 +235,7 @@ permalink: /resources/
         *    [Which Planets Sound Good to Live On?](https://ctkstl.github.io/earth_science/pages/Planets-To-Live-On.html)
         *    pictures of the planets
         *    [Guess which picture is of which planet](http://www.planetary.org/blogs/emily-lakdawalla/2015/09300800-the-solar-system-at-1-km.html)
+        *    Cosmos Episode 1:4:45-25?  Or before the death sentence
     3.  The Sun
         *    [They Might be Giants Song!] (https://www.youtube.com/watch?v=Oyz7e8iQ6Uo)
         *    [Cool video showing sunspots rotating around the sun](http://apod.nasa.gov/apod/ap150629.html)
@@ -325,6 +326,7 @@ permalink: /resources/
         *   Star size comparison [animation](https://www.youtube.com/watch?v=fKTu6B4Rgek), [graphic](https://en.wikipedia.org/wiki/File:Star-sizes.jpg)
         *   [Comparison of earth features to space features](http://astronomycentral.co.uk/astronomy-the-size-of-stuff/)
         *   [Putting time in perspective](http://ctkstl.github.io/earth_science/images/PuttingTimeInPerspective-G.png)
+        *   Cosmos Epidosde 1: 27:00-40:00
     3.  Characteristics of Stars
     4.  Lives of Stars
     5.  Star Systems and Galaxies
