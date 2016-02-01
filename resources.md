@@ -256,6 +256,7 @@ permalink: /resources/
         *   Mars
              *   [From the Hubble Space Telescope](https://commons.wikimedia.org/wiki/File:Mars_Hubble.jpg) (which orbits earth), you can see the ice caps and some thin clouds.
              *   [Valles Marineris](https://commons.wikimedia.org/wiki/File:Mars_Valles_Marineris.jpeg) The biggest canyon in the solar system.
+             *   [Animation of flowing water](https://commons.wikimedia.org/wiki/File:Warm_Season_Flows_on_Slope_in_Newton_Crater_(animated).gif)
              *   [Earth size comparison](https://commons.wikimedia.org/wiki/File:Mars,_Earth_size_comparison.jpg)
              *   [Sunset on Mars](https://commons.wikimedia.org/wiki/File:MarsSunset.jpg)
              *   [Opportunity on a crater rim](https://commons.wikimedia.org/wiki/File:01_SS_01_Endurance_B101R1.jpg)
