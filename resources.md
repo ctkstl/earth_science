@@ -320,6 +320,7 @@ permalink: /resources/
              *    [Ceres](https://commons.wikimedia.org/wiki/File:Ceresintruecolor.png)
              *    [Bright Spot Animation](https://commons.wikimedia.org/wiki/File:Ceres-bright-spots-animated_gif_(slow_frame_rate).gif)
              *    [A Large Mountain](https://commons.wikimedia.org/wiki/File:PIA19618-Ceres-PyramidShapedMountain-Dawn-20150806.jpg)
+             *    [Flight over Ceres](https://www.youtube.com/watch?v=nJiw2NxqoBU)
 16. Stars, Galaxies, and the Universe
     1.  Telescopes
     2.  The Scale of the Universe
