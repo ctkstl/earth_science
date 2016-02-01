@@ -252,7 +252,7 @@ permalink: /resources/
              *   [Venus from space](https://commons.wikimedia.org/wiki/File:Venuspioneeruv.jpg)
              *   [Radar map of venus](https://commons.wikimedia.org/wiki/File:Venus_globe.jpg)
              *   [Earth size comparison](https://commons.wikimedia.org/wiki/File:Venus_Earth_Comparison.png)
-             *   Only a few (short lived 20min-2hrs) [soviet probes landed](http://mentallandscape.com/C_CatalogVenus.htm) on venus, the [best picture](http://i.imgur.com/gUgFJGp.jp)
+             *   Only a few (short lived 20min-2hrs) [soviet probes landed](http://mentallandscape.com/C_CatalogVenus.htm) on venus, the [best picture](http://i.imgur.com/gUgFJGp.jpg)
         *   Mars
              *   [From the Hubble Space Telescope](https://commons.wikimedia.org/wiki/File:Mars_Hubble.jpg) (which orbits earth), you can see the ice caps and some thin clouds.
              *   [Valles Marineris](https://commons.wikimedia.org/wiki/File:Mars_Valles_Marineris.jpeg) The biggest canyon in the solar system.
@@ -260,6 +260,7 @@ permalink: /resources/
              *   [Sunset on Mars](https://commons.wikimedia.org/wiki/File:MarsSunset.jpg)
              *   [Opportunity on a crater rim](https://commons.wikimedia.org/wiki/File:01_SS_01_Endurance_B101R1.jpg)
              *   [Curosity view of Mount Sharp](https://commons.wikimedia.org/wiki/File:PIA19912-MarsCuriosityRover-MountSharp-20151002.jpg)
+             *   [Curiosity rover](https://commons.wikimedia.org/wiki/File:PIA16763_-_Curiosity_Rover's_self_portrait_at_'John_Klein'_drilling_site.jpg)
         *    Mars rover path (overlay on STL?)
         *    Mars rover paths in googl earth
              1. Open Google Earth
