@@ -209,7 +209,7 @@ permalink: /resources/
         *   Seasons demo
         *   [Earth rotating with a fixed space background](http://giant.gfycat.com/InexperiencedQuestionableAegeancat.gif)
     3.  Gravity and Motion
-        *   [What is an orbit?](https://ctkstl.github.io/earth_science/pages/What-is-an-Orbit.html)
+        *   [What is an orbit?](https://ctkstl.github.io/earth_science/pages/What-is-an-Orbit/)
         *   Why aren't black-holes dangerous? They're just gravity...you're no more likely to fall into one than you are to fall into the sun.
         *   Video of astronaut dropping a hammer and a feather on the moon.
     4.  Phases and Eclipses
@@ -231,8 +231,8 @@ permalink: /resources/
     1.  Models of the Solar System
     2.  Introducing the Solar System
         *    [Scroll through the solar system on the scale of the moon == 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
-        *    [Distances between the planet](https://ctkstl.github.io/earth_science/pages/Relative-Planet-distances.html)
-        *    [Which Planets Sound Good to Live On?](https://ctkstl.github.io/earth_science/pages/Planets-To-Live-On.html)
+        *    [Distances between the planet](https://ctkstl.github.io/earth_science/pages/Relative-Planet-distances/)
+        *    [Which Planets Sound Good to Live On?](https://ctkstl.github.io/earth_science/pages/Planets-To-Live-On/)
         *    pictures of the planets
         *    [Guess which picture is of which planet](http://www.planetary.org/blogs/emily-lakdawalla/2015/09300800-the-solar-system-at-1-km.html)
         *    Cosmos Episode 1:4:45-25?  Or before the death sentence
