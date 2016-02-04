@@ -4,7 +4,7 @@ layout: default
 ---
 
 Which Planets Sound Good to Live On?
-====================================
+=====================================
 
 Let's go through them.
 
