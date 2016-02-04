@@ -2,7 +2,6 @@
 title: Which Planets Sound Good to Live On?
 layout: default
 ---
-This has been reproduced from the "Wait But Why" blog post about [SpaceX's plans to establish a human colony on mars](http://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html), it is an extremely interesting article, containing the following as an aside. It has been edited for continuity and a middle school audience.
 
 Which Planets Sound Good to Live On?
 ====================================
@@ -103,4 +102,6 @@ Where humans could possibly move to are the large, rocky, ice-covered moons arou
 When I asked Elon Musk about where other than Mars humans could potentially move to, he said there were a handful of places that could work if our technology becomes advanced enough—several moons, a few of the largest asteroids, even Mercury and Venus if you really want to get crazy, but he finished by saying, “I mean, Mars is by far the best option.”
 
 Before we go back to the non-blue world of the normal post, can we just acknowledge how good living on Earth sounds right now?? Imagine the privilege of living in room temperature weather, one atmosphere of pressure, g gravity, light breezes, watery rainstorms, plentiful liquid oceans, magnetic and atmospheric protection from the sun, food everywhere, and air you can just breathe in. You need a huge number of different conditions to be precisely correct in order for you to be able to just stroll around outdoors without a spacesuit. So let’s all appreciate the luxury of living on Earth for the next seven minutes until we all simultaneously forget to give a hoot about it again.
+
+This has been reproduced from the "Wait But Why" blog post about [SpaceX's plans to establish a human colony on mars](http://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html), it is an extremely interesting article, containing the following as an aside. It has been edited for continuity and a middle school audience.
 
