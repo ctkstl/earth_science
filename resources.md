@@ -325,6 +325,7 @@ permalink: /resources/
         *   [XKCD Possible Undiscovered Planets](http://xkcd.com/1633/)
 16. Stars, Galaxies, and the Universe
     1.  Telescopes
+        *   [Electromagnetic radiation Sqectrum] (http://www.sun.org/encyclopedia/electromagnetic-spectrum)      
     2.  The Scale of the Universe
         *   [Map of stars within 12.5 light years of earth](http://www.atlasoftheuniverse.com/12lys.html)
         *   [Simple map of nearby stars](https://commons.wikimedia.org/wiki/File:PIA18003-NASA-WISE-StarsNearSun-20140425-2.png)
