@@ -336,6 +336,7 @@ permalink: /resources/
     3.  Characteristics of Stars
     4.  Lives of Stars
     5.  Star Systems and Galaxies
+        *   [Viewing the Andromeda Galaxy with the naked (or aided) eye](http://waitbutwhy.com/2014/06/andromeda-brighter-youd-see.html)
     6.  The Expanding Universe
 17. Land, Air, and Water Resources
     1.  Introduction to Environmental Issues
