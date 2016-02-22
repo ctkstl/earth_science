@@ -336,6 +336,7 @@ permalink: /resources/
         *   Cosmos Epidosde 1: 27:00-40:00
     3.  Characteristics of Stars
     4.  Lives of Stars
+        * [Where the elements came from] (http://apod.nasa.gov/apod/ap160125.html)
     5.  Star Systems and Galaxies
         *   [Viewing the Andromeda Galaxy with the naked (or aided) eye](http://waitbutwhy.com/2014/06/andromeda-brighter-youd-see.html)
     6.  The Expanding Universe
