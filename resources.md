@@ -326,7 +326,8 @@ permalink: /resources/
         *   [XKCD Possible Undiscovered Planets](http://xkcd.com/1633/)
 16. Stars, Galaxies, and the Universe
     1.  Telescopes
-        *   [Electromagnetic radiation Sqectrum] (http://www.sun.org/encyclopedia/electromagnetic-spectrum)      
+        *   [Electromagnetic radiation Sqectrum] (http://www.sun.org/encyclopedia/electromagnetic-spectrum)
+        *   [Another spectrum] (http://www.workingwithwaves.com/wp-content/uploads/2014/11/95275-050-6ABFB771.jpg)
     2.  The Scale of the Universe
         *   [Map of stars within 12.5 light years of earth](http://www.atlasoftheuniverse.com/12lys.html)
         *   [Simple map of nearby stars](https://commons.wikimedia.org/wiki/File:PIA18003-NASA-WISE-StarsNearSun-20140425-2.png)
@@ -335,6 +336,7 @@ permalink: /resources/
         *   [Putting time in perspective](http://ctkstl.github.io/earth_science/images/PuttingTimeInPerspective-G.png)
         *   Cosmos Epidosde 1: 27:00-40:00
     3.  Characteristics of Stars
+        * [H-R] (https://upload.wikimedia.org/wikipedia/commons/1/17/Hertzsprung-Russel_StarData.png)
     4.  Lives of Stars
         * [Where the elements came from] (http://apod.nasa.gov/apod/ap160125.html)
     5.  Star Systems and Galaxies
