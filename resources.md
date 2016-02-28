@@ -123,6 +123,7 @@ permalink: /resources/
         *   Sand dunes
 8.  A Trip Through Geologic Time - Contrast with Genesis 1-3, explain Catholic non-literal doctrine.
     1.  Fossils
+        *[45 MYA Flower in Amber](http://arstechnica.com/science/2016/02/this-flower-preserved-in-amber-may-be-45-million-years-old/)
         *   [Dino bones with biological goo inside](http://www.livescience.com/41537-t-rex-soft-tissue.html)
         *   [Different discovery with blood cells](http://blogs.discovermagazine.com/d-brief/2015/06/09/blood-cells-dinosaur-bones/#.VYdwiLy37yM)
     2.  The Relative Age of Rocks
@@ -328,6 +329,8 @@ permalink: /resources/
     1.  Telescopes
         *   [Electromagnetic radiation Sqectrum] (http://www.sun.org/encyclopedia/electromagnetic-spectrum)
         *   [Another spectrum] (http://www.workingwithwaves.com/wp-content/uploads/2014/11/95275-050-6ABFB771.jpg)
+        *   [Prism Experiment-IR] (http://www.ipac.caltech.edu/outreach/Edu/Herschel/backyard.html)
+        *   [Prism Experiment -UV](http://coolcosmos.ipac.caltech.edu/cosmic_classroom/classroom_activities/ritter_example.html)
     2.  The Scale of the Universe
         *   [Map of stars within 12.5 light years of earth](http://www.atlasoftheuniverse.com/12lys.html)
         *   [Simple map of nearby stars](https://commons.wikimedia.org/wiki/File:PIA18003-NASA-WISE-StarsNearSun-20140425-2.png)
