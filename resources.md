@@ -190,6 +190,7 @@ permalink: /resources/
     5.  Storms
         *   Lightning danger - xkcd
         *   Hurricane water temperature intensity
+        *   [Hurricane Lightning from space](https://i.imgur.com/5XK0pnt.gif)
     6.  Predicting the Weather
         *   Compare prediction accuracy: 1hr, 8hr, 1day, 3day, 7day
 13. Climate and Climate Change
