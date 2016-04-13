@@ -180,6 +180,7 @@ permalink: /resources/
     1.  Water in the Atmosphere
         *   Move water between beakers with evaporation (help with heating) and condensation (help with cooling).
         *   Dew point measure: Thermometer in a can of water at room tempature. Slowly add ice until the side of the can starts to sweat. Dew Point can be converted to Relative Humidity with an equation.
+        *   [Dew point graph](https://en.wikipedia.org/wiki/Dew_point)
     2.  Clouds
         *   Frost on mars: picture from mars polar lander?
     3.  Precipitation
