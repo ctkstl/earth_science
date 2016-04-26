@@ -206,6 +206,7 @@ permalink: /resources/
         *   Temperature graph
         *   Hottest years
         *   Feedback Loops
+        *   [Webste for Teaching](http://www.climategen.org/what-we-do/education/climate-change-and-energy-curricula/curriculum-guides/next-generation-climate-for-grades-6-8/)
 14. Earth, Moon, and Sun
     1.  The Sky from Earth
         *   Book says we can see: The Moon, Planets, Meteors and Comets, and Stars in the night sky...important omissions: man-made satellites, and **Galaxies**
