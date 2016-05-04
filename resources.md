@@ -218,8 +218,10 @@ permalink: /resources/
         *   Why aren't black-holes dangerous? They're just gravity...you're no more likely to fall into one than you are to fall into the sun.
         *   Video of astronaut dropping a hammer and a feather on the moon.
     4.  Phases and Eclipses
-        *   Solar eclips pictures, from space station. 
+        *   Solar eclipse pictures, [from space station](https://www.youtube.com/watch?v=QJ25zCJlUm0). 
+        *   [Neat video of an eclipse from an airplane](http://i.imgur.com/YKpGe6U.gifv)
         *   [pics from space] (http://www.theatlantic.com/photo/2015/09/images-from-offworld/406963/)
+        *   [Solar eclips from a satelite showing the whole side of earth](http://www.wired.co.uk/news/archive/2016-03/11/nasa-satellite-images-track-the-shadow-of-a-solar-eclipse)
         *   Lunar eclipse pictures, include time laps showing the earth's shadown zone
         *   Why isn't there a solar/lunar eclipse every month....inclination of the moon's orbit.
         *   Same side of the moon always faces the earth, but it [wobbles](https://en.wikipedia.org/wiki/Orbit_of_the_Moon#/media/File:Lunar_libration_with_phase2.gif)
@@ -231,6 +233,7 @@ permalink: /resources/
         *   [Picture of the Moon passing in front of the earth](http://apod.nasa.gov/apod/ap150807.html) and the [Video](https://www.youtube.com/watch?v=DMdhQsHbWTs)
         *   [how the Earth looks from the Moon](http://apod.nasa.gov/apod/ap160104.html)
         *   Pictues and videos from the surface...[walking and jumping](https://www.youtube.com/watch?v=sy9R8WN2uMc), [driving the rover](https://www.youtube.com/watch?v=5cKpzp358F4), etc
+        *   [Photo of the astronauts with the lander in the background on mountains](http://imgur.com/a/oEY5W), gives good perspective.
         *   [Animation showing the correct distance/size relationship between the earth and moon](https://i.imgur.com/gk9nSeI.gifv)
 15. The Solar System
     1.  Models of the Solar System
