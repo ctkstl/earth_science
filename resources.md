@@ -206,6 +206,10 @@ permalink: /resources/
         *   Temperature graph
         *   Hottest years
         *   Feedback Loops
+        *   Desertification Animation 4 min (https://www.youtube.com/watch?v=LbFefdUM55Q)
+        *   [Desertification movie 6 min] (https://www.youtube.com/watch?v=w9RxnuBiFbg)
+        *   [Desertification Risk Map] (http://mapsof.net/uploads/static-maps/desertification_map.png)
+        *   [UNESCO Site on Desertification](http://www.unesco.org/mab/doc/ekocd/chapter12.html)
         *   [Webste for Teaching](http://www.climategen.org/what-we-do/education/climate-change-and-energy-curricula/curriculum-guides/next-generation-climate-for-grades-6-8/)
 14. Earth, Moon, and Sun
     1.  The Sky from Earth
