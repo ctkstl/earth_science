@@ -367,3 +367,4 @@ permalink: /resources/
 Bonus:
 *   [Mangus Effect](http://imgur.com/KuayNFt)
 *   [Which falls faster a bowling ball or a feather?](http://www.iflscience.com/physics/dropping-bowling-ball-and-feather-vacuum)
+*   [Hollow Pennies] (http://micro.sci-toys.com/hollow_pennies)
