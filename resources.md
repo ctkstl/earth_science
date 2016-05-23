@@ -253,6 +253,7 @@ permalink: /resources/
         *    [Cool video showing sunspots rotating around the sun](http://apod.nasa.gov/apod/ap150629.html)
         *    [The color of light coming out of the sun](http://apod.nasa.gov/apod/ap150628.html), [Video of the sun in different wavelengths](https://www.youtube.com/watch?v=kS57VH3QN1g),  you can see lots of different features in the different  infra-red and ultra-violet colors that human eyes can't see (but satellites can, the colors in the video have been altered from their originals into ones that humans can see).
         *    Size of solar flares: [Compared to earth](https://www.flickr.com/photos/gsfc/5492781335/ ), [Video Comparison](https://www.youtube.com/watch?v=015cnqMt2i8)
+        *    [Amazing mercury transit video](http://apod.nasa.gov/apod/ap160511.html) and a [picture with the ISS (~300mi away) also transiting](http://apod.nasa.gov/apod/ap160513.html)
         *    [Description of solar flares video](https://www.youtube.com/watch?v=oOXVZo7KikE)
         *    [Visualizing how many earths could fit into the sun. If each small blue ball represents the earth, the large clear-plastic ball is the size the sun would be.](http://i.imgur.com/U5tdA1e.jpg)
     4.  The Inner Planets
