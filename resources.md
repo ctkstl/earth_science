@@ -217,6 +217,7 @@ permalink: /resources/
     2.  Earth in Space
         *   Seasons demo
         *   [Earth rotating with a fixed space background](http://giant.gfycat.com/InexperiencedQuestionableAegeancat.gif)
+        *   [One year from EPIC](https://www.youtube.com/watch?v=CFrP6QfbC2g) Time lapse video from a satellite that is constantly in line between the earth and the sun (a very special gravitational location where it doesn't actually orbit earth). Note, in December you can see the south pole and in June you can see the north pole.
     3.  Gravity and Motion
         *   [What is an orbit?](https://ctkstl.github.io/earth_science/pages/What-is-an-Orbit/)
         *   Why aren't black-holes dangerous? They're just gravity...you're no more likely to fall into one than you are to fall into the sun.
