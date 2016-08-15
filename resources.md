@@ -67,6 +67,7 @@ permalink: /resources/
     3.  Monitoring Earthquakes
         *   [Phone Accelerometer Sisemograph](http://ctrlq.org/earthquakes/seismograph.html) 
         *   [USGS Live Monitoring](http://earthquake.usgs.gov/earthquakes/map/), what’s up in Oklahoma?
+        *   Fracking and Earthquakes - Scientific American July 2016 p. 51
 5.  Volcanoes
     1.  Volcanoes and Plate Tectonics
     2.  Volcanic Eruptions
@@ -139,6 +140,7 @@ permalink: /resources/
     6.  Eras of Earth’s History
         *   Forests that grew but didn't decay
         *   List great extinctions
+        *   Volcanoes as cause of large extinctions - Scientific American March 2016 p.65
 9.  Energy Resources
     1.  Fossil Fuels
         *   How much have humans taken out of the ground?
@@ -249,6 +251,7 @@ permalink: /resources/
         *    pictures of the planets
         *    [Guess which picture is of which planet](http://www.planetary.org/blogs/emily-lakdawalla/2015/09300800-the-solar-system-at-1-km.html)
         *    Cosmos Episode 1:4:45-25?  Or before the death sentence
+        *    Scientific American May 2016 p. 33
     3.  The Sun
         *    [They Might be Giants Song!] (https://www.youtube.com/watch?v=Oyz7e8iQ6Uo)
         *    [Cool video showing sunspots rotating around the sun](http://apod.nasa.gov/apod/ap150629.html)
@@ -350,11 +353,13 @@ permalink: /resources/
         *   [Comparison of earth features to space features](http://astronomycentral.co.uk/astronomy-the-size-of-stuff/)
         *   [Putting time in perspective](http://ctkstl.github.io/earth_science/images/PuttingTimeInPerspective-G.png)
         *   Cosmos Epidosde 1: 27:00-40:00
+        *   Virgo Supercluster - Scientific American- July 2016 p. 37
     3.  Characteristics of Stars
         * [H-R] (https://upload.wikimedia.org/wikipedia/commons/1/17/Hertzsprung-Russel_StarData.png)
     4.  Lives of Stars
         * [Where the elements came from] (http://apod.nasa.gov/apod/ap160125.html)
         * [Pulsar](https://video.search.yahoo.com/video/play;_ylt=A0LEVj0.o9BWtrcAwHknnIlQ;_ylu=X3oDMTByMjB0aG5zBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzYw--?p=npr+sound+of+a+neutron+star&back=https%3A%2F%2Fsearch.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dnpr%2Bsound%2Bof%2Ba%2Bneutron%2Bstar%26ei%3DUTF-8%26hsimp%3Dyhs-001%26hspart%3Dmozilla&fr=%26fr%3Dyhs-mozilla-001&turl=http%3A%2F%2Fts2.mm.bing.net%2Fth%3Fid%3DOVP.Vd3255dd7c65d41ce7b2b7a876036c3b9%26pid%3D15.1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHSyRMotOhoM&tit=Hubble-Space-Telescope+%28The+Sound+of+Pulsar%29&l=20&vid=3b615f57cb6c2d9eb3f8ed5dc6a60eb7&sigr=11bfjqsqv&sigb=137nuqisq&sigt=11cmospp5&sigi=12bctvhi0&hspart=mozilla&hsimp=yhs-001)
+        * Types of Supernovae - Scientific American June 2016 p. 41
     5.  Star Systems and Galaxies
         *   [Viewing the Andromeda Galaxy with the naked (or aided) eye](http://waitbutwhy.com/2014/06/andromeda-brighter-youd-see.html)
     6.  The Expanding Universe
