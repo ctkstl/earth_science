@@ -205,7 +205,7 @@ permalink: /resources/
         *   North american glaciers
     4.  Human Activities and Climate Change
         *   CO2 readings graph
-        *   Temperature graph
+        *   [xkcd Temperature graph](http://xkcd.com/1732/)
         *   Hottest years
         *   Feedback Loops
         *   Desertification Animation 4 min (https://www.youtube.com/watch?v=LbFefdUM55Q)
