@@ -65,6 +65,7 @@ permalink: /resources/
         *   Tsunami [video](https://www.youtube.com/watch?v=yF693FqXX_A) [waves over the ocean](https://www.youtube.com/watch?v=w3AdFjklR50)[first waves hit, then get deeper](https://www.youtube.com/watch?v=yiENf1f1tIA)
         *   Demo liquifaction with cornstarch and water
         *   [New Madrid Fault](http://earthquake.usgs.gov/learn/topics/nmsz/)
+        *   [Nova on Earthquakes](http://www.pbs.org/wgbh/nova/earth/earthquake-detection.html)
     3.  Monitoring Earthquakes
         *   [Phone Accelerometer Sisemograph](http://ctrlq.org/earthquakes/seismograph.html) 
         *   [USGS Live Monitoring](http://earthquake.usgs.gov/earthquakes/map/), what’s up in Oklahoma?
