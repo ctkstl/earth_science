@@ -55,6 +55,7 @@ permalink: /resources/
     3.  The Theory of Plate Tectonics
         *   Ethopia opening up into a new ocean [Live Science](http://www.livescience.com/10592-giant-crack-africa-create-ocean.html)
         *   [San Andreas Fault Movement](https://en.wikipedia.org/wiki/San_Andreas_Fault#/media/File:Sanandreas.jpg)
+        * Whole chapter:  Cosmos 9, 13:54-20:00
 4.  Earthquakes
     1.  Forces in the Earth’s Crust
         *   [San Andreas fault](https://www.youtube.com/watch?v=ZxPTLmg0ZCw)
