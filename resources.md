@@ -224,6 +224,7 @@ permalink: /resources/
         *   Seasons demo
         *   [Earth rotating with a fixed space background](http://giant.gfycat.com/InexperiencedQuestionableAegeancat.gif)
         *   [One year from EPIC](https://www.youtube.com/watch?v=CFrP6QfbC2g) Time lapse video from a satellite that is constantly in line between the earth and the sun (a very special gravitational location where it doesn't actually orbit earth). Note, in December you can see the south pole and in June you can see the north pole.
+        *   [Sun Position Throughout the Year](https://apod.nasa.gov/apod/ap161221.html)
     3.  Gravity and Motion
         *   [What is an orbit?](https://ctkstl.github.io/earth_science/pages/What-is-an-Orbit/)
         *   Why aren't black-holes dangerous? They're just gravity...you're no more likely to fall into one than you are to fall into the sun.
@@ -236,7 +237,7 @@ permalink: /resources/
         *   Lunar eclipse pictures, include time laps showing the earth's shadown zone
         *   Why isn't there a solar/lunar eclipse every month....inclination of the moon's orbit.
         *   Same side of the moon always faces the earth, but it [wobbles](https://en.wikipedia.org/wiki/Orbit_of_the_Moon#/media/File:Lunar_libration_with_phase2.gif)
-    5.  TidesC
+    5.  Tides
         *   Bay of Fundy, Canada  [Largest tides in the world](https://www.youtube.com/watch?v=EnDJ6_XpGfo)
         *   [more bay of fundy] (https://www.youtube.com/watch?v=OP0cpXpw8yk)
         *   [Why two tides a day?] (https://www.youtube.com/watch?v=gftT3wHJGtg)
@@ -264,6 +265,7 @@ permalink: /resources/
         *    [Amazing mercury transit video](http://apod.nasa.gov/apod/ap160511.html) and a [picture with the ISS (~300mi away) also transiting](http://apod.nasa.gov/apod/ap160513.html)
         *    [Description of solar flares video](https://www.youtube.com/watch?v=oOXVZo7KikE)
         *    [Visualizing how many earths could fit into the sun. If each small blue ball represents the earth, the large clear-plastic ball is the size the sun would be.](http://i.imgur.com/U5tdA1e.jpg)
+        *    [50,000 Kilometers Over the Sun](https://apod.nasa.gov/apod/ap160919.html)
     4.  The Inner Planets
         *    How big is the earth...roughly the same size as venus...how big is that? [See it passing in front of the sun.](http://www.nasa.gov/feature/goddard/scientists-study-venus-atmosphere-through-transit)
         *    Mercury
