@@ -198,6 +198,8 @@ permalink: /resources/
         *   Lightning danger - xkcd
         *   Hurricane water temperature intensity
         *   [Hurricane Lightning from space](https://i.imgur.com/5XK0pnt.gif), [another, greatly sped up](https://amp.twimg.com/v/6d03379b-436f-4fe9-a027-af5e0fc0ea9a)
+        *   [Jet Above A Thunderstorm](https://apod.nasa.gov/apod/ap160823.html)
+        *   [Live Lightning Map](https://www.lightningmaps.org/blitzortung/america/index.php?lang=en)
     6.  Predicting the Weather
         *   Compare prediction accuracy: 1hr, 8hr, 1day, 3day, 7day
 13. Climate and Climate Change
