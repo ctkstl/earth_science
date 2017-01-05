@@ -243,6 +243,7 @@ permalink: /resources/
         *   Bay of Fundy, Canada  [Largest tides in the world](https://www.youtube.com/watch?v=EnDJ6_XpGfo)
         *   [more bay of fundy] (https://www.youtube.com/watch?v=OP0cpXpw8yk)
         *   [Why two tides a day?] (https://www.youtube.com/watch?v=gftT3wHJGtg)
+        *   [Tides Science Friday] (http://www.sciencefriday.com/segments/spinning-theories-on-planet-rotation/)
     6.  Earth’s Moon
         *   [Picture of the Moon passing in front of the earth](http://apod.nasa.gov/apod/ap150807.html) and the [Video](https://www.youtube.com/watch?v=DMdhQsHbWTs)
         *   [how the Earth looks from the Moon](http://apod.nasa.gov/apod/ap160104.html)
