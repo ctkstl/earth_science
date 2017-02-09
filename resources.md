@@ -288,6 +288,7 @@ permalink: /resources/
              *   [Opportunity on a crater rim](https://commons.wikimedia.org/wiki/File:01_SS_01_Endurance_B101R1.jpg)
              *   [Curosity view of Mount Sharp](https://commons.wikimedia.org/wiki/File:PIA19912-MarsCuriosityRover-MountSharp-20151002.jpg)
              *   [Curiosity rover](https://commons.wikimedia.org/wiki/File:PIA16763_-_Curiosity_Rover's_self_portrait_at_'John_Klein'_drilling_site.jpg)
+             * [NASA Video on Mars Missions](http://mars.nasa.gov/multimedia/videos/?v=289)
         *    Mars rover path (overlay on STL?)
         *    Mars rover paths in googl earth
              1. Open Google Earth
