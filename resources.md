@@ -268,6 +268,7 @@ permalink: /resources/
         *    [Amazing mercury transit video](http://apod.nasa.gov/apod/ap160511.html) and a [picture with the ISS (~300mi away) also transiting](http://apod.nasa.gov/apod/ap160513.html)
         *    [Description of solar flares video](https://www.youtube.com/watch?v=oOXVZo7KikE)
         *    [Visualizing how many earths could fit into the sun. If each small blue ball represents the earth, the large clear-plastic ball is the size the sun would be.](http://i.imgur.com/U5tdA1e.jpg)
+        *  [Auroras](https://www.youtube.com/watch?v=fVsONlc3OUY)
         *    [50,000 Kilometers Over the Sun](https://apod.nasa.gov/apod/ap160919.html)
     4.  The Inner Planets
         *    How big is the earth...roughly the same size as venus...how big is that? [See it passing in front of the sun.](http://www.nasa.gov/feature/goddard/scientists-study-venus-atmosphere-through-transit)
