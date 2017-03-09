@@ -335,6 +335,8 @@ permalink: /resources/
             *    [Neptune](https://commons.wikimedia.org/wiki/File:Neptune_Full.jpg)
             *    [Moon Triton](https://commons.wikimedia.org/wiki/File:Global_Color_Mosaic_of_Triton_(9467442336).jpg)
     6.  Small Solar System Objects
+        * [Where is voyager](http://voyager.jpl.nasa.gov/where/)
+        * [New Horizons](http://www.theplanetstoday.com/new_horizons_flight_path.html)
         *    [The "Not Planets"](http://www.planetary.org/blogs/emily-lakdawalla/2015/07141338-the-not-planets.html)
         *    [Animation of known asteroids as they are discovered](https://www.youtube.com/watch?v=BKKg4lZ_o-Y) Blue circles are planets, white dots are when they are discovered, they quickly fade to: green dots for normal asteroids, red dots for ones that cross earth's orbit, yellow dots get close to earth but don't cross. The dots are **much** larger than the size of the objects they represent.
         *    [Asteroids (aka minor planets) and Comets visited by spacecraft](https://en.wikipedia.org/wiki/List_of_minor_planets_and_comets_visited_by_spacecraft)
