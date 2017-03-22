@@ -232,6 +232,7 @@ permalink: /resources/
         *   [What is an orbit?](https://ctkstl.github.io/earth_science/pages/What-is-an-Orbit/)
         *   Why aren't black-holes dangerous? They're just gravity...you're no more likely to fall into one than you are to fall into the sun.
         *   Video of astronaut dropping a hammer and a feather on the moon.
+        *  Science Friday on Planet Rotation https://www.sciencefriday.com/segments/spinning-theories-on-planet-rotation/
     4.  Phases and Eclipses
         *   Solar eclipse pictures, [from space station](https://www.youtube.com/watch?v=QJ25zCJlUm0). 
         *   [Neat video of an eclipse from an airplane](http://i.imgur.com/YKpGe6U.gifv)
