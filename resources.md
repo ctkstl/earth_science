@@ -381,6 +381,8 @@ permalink: /resources/
     5.  Star Systems and Galaxies
         *   [Viewing the Andromeda Galaxy with the naked (or aided) eye](http://waitbutwhy.com/2014/06/andromeda-brighter-youd-see.html)
     6.  The Expanding Universe
+        * Colliding Black Holes https://apod.nasa.gov/apod/ap151020.html
+        * Gravitational Waves https://apod.nasa.gov/apod/ap151020.html
 17. Land, Air, and Water Resources
     1.  Introduction to Environmental Issues
     2.  Introduction to Natural Resources
