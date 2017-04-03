@@ -149,6 +149,9 @@ permalink: /resources/
     1.  Fossil Fuels
         *   How much have humans taken out of the ground?
     2.  Renewable Sources of Energy
+        *  Hydroelectric, Salmon Ladder (http://www.brandoncole.com/photos_salmon_topics.htm)
+        *   [Solar Farm, Mirrors ](http://www.ecowatch.com/worlds-largest-solar-farm-will-generate-enough-electricity-to-power-32-1882095449.html)
+        *   [Solar Farm, Solar cells](http://www.treehugger.com/corporate-responsibility/europes-largest-pv-solar-farm-opens-in-italy.html)
         *   [Solar cell effiency progress - NREL](http://www.nrel.gov/ncpv/images/efficiency_chart.jpg)
         *   [Price per watt](http://en.wikipedia.org/wiki/Cost_of_electricity_by_source)
         *   [Geothermal potential map](http://www.nrel.gov/gis/images/geothermal_resource2009-final.jpg)
