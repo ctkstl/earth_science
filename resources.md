@@ -158,6 +158,8 @@ permalink: /resources/
         *   Geothermal for heating/cooling
         *   Wind, bladeless (https://www.wired.com/2015/05/future-wind-turbines-no-blades/)
         *   Biomass from algae (http://www.oilgae.com/algae/pro/eth/eth.html)
+        *   Nuclear Fission (http://ffden-2.phys.uaf.edu/211_spring2009.web/bob_torgerson/P1.html)
+        *   Chain Reacction (https://www.shutterstock.com/image-vector/illustration-nuclear-chain-reaction-uranium235-fission-73714504)
     3.  Energy Use and Conservation
 10. Water
     1.  Water on Earth
