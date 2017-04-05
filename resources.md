@@ -157,6 +157,7 @@ permalink: /resources/
         *   [Geothermal potential map](http://www.nrel.gov/gis/images/geothermal_resource2009-final.jpg)
         *   Geothermal for heating/cooling
         *   Wind, bladeless (https://www.wired.com/2015/05/future-wind-turbines-no-blades/)
+        *   Biomass from algae (http://www.oilgae.com/algae/pro/eth/eth.html)
     3.  Energy Use and Conservation
 10. Water
     1.  Water on Earth
