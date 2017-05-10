@@ -199,6 +199,7 @@ permalink: /resources/
     3.  Precipitation
         *   Hail vs. Freezing Rain vs. Sleet vs. Snow
         *   How much rain do we get in STL in a year? In a month/day/hour/etc? Show in 1in column....think about that spread over a large area and how much water that would be. Compare to that much over a city/state...all has to leave through the river, so we get floods.
+        * Example of flood plains (https://earthobservatory.nasa.gov/IOTD/view.php?id=90171)
     4.  Air Masses
         *   Cyclone == Hurricane, Cyclone != Tornado
     5.  Storms
