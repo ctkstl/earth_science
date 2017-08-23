@@ -233,6 +233,7 @@ permalink: /resources/
         * [ISS Tracker](http://www.isstracker.com/)
     2.  Earth in Space
         *   Seasons demo
+        *   [One day (winter in northern hemisphere)](http://i.imgur.com/fZJ1HwJ.gifv)
         *   [Earth rotating with a fixed space background](http://giant.gfycat.com/InexperiencedQuestionableAegeancat.gif)
         *   [One year from EPIC](https://www.youtube.com/watch?v=CFrP6QfbC2g) Time lapse video from a satellite that is constantly in line between the earth and the sun (a very special gravitational location where it doesn't actually orbit earth). Note, in December you can see the south pole and in June you can see the north pole.
         *   [Sun Position Throughout the Year](https://apod.nasa.gov/apod/ap161221.html)
@@ -388,6 +389,7 @@ permalink: /resources/
         *[Neutron Star over Vancouver](https://www.reddit.com/r/space/comments/498761/averagesized_neutron_star_represented_floating/)
         * Types of Supernovae - Scientific American June 2016 p. 41
     5.  Star Systems and Galaxies
+        *   [Stars moving around the center of our galaxy (over ten years)](https://imgur.com/DL2f3DN)
         *   [Viewing the Andromeda Galaxy with the naked (or aided) eye](http://waitbutwhy.com/2014/06/andromeda-brighter-youd-see.html)
     6.  The Expanding Universe
         * Colliding Black Holes https://apod.nasa.gov/apod/ap151020.html
