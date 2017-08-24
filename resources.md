@@ -396,6 +396,7 @@ permalink: /resources/
         * Gravitational Waves https://apod.nasa.gov/apod/ap151020.html
 17. Land, Air, and Water Resources
     1.  Introduction to Environmental Issues
+        * https://en.wikipedia.org/wiki/World_population
     2.  Introduction to Natural Resources
         * Calculate Ecological Footprint www.footprintcalculator.org
         * http://footprint.wwf.org.uk/
