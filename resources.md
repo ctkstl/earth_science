@@ -397,6 +397,12 @@ permalink: /resources/
 17. Land, Air, and Water Resources
     1.  Introduction to Environmental Issues
     2.  Introduction to Natural Resources
+        * Calculate Ecological Footprint www.footprintcalculator.org
+        * footprint.wwf.org.uk/
+        * Reduce Footprint en.reset.org/act/reduce-your-ecological-footprint-0
+        * Graphs www.sustainablemeasures.com/node/102
+        * data.footprintnetwork.org/countryMetrics.html?cn=all&yr=2013
+        * data.footprintnetwork.org/compareCountries.html?yr=2013&type=EFCpc&cn=all
     3.  Conserving Land and Soil
     4.  Waste Disposal and Recycling
     5.  Air Pollution and Solutions
