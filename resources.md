@@ -397,6 +397,8 @@ permalink: /resources/
 17. Land, Air, and Water Resources
     1.  Introduction to Environmental Issues
         * https://en.wikipedia.org/wiki/World_population
+        * Heat Island Effect http://www.urbanheatislands.com/
+        * map of st. louis temperatures https://www.wunderground.com/wundermap
     2.  Introduction to Natural Resources
         * Calculate Ecological Footprint www.footprintcalculator.org
         * http://footprint.wwf.org.uk/
