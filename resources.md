@@ -408,6 +408,7 @@ permalink: /resources/
         * http://data.footprintnetwork.org/compareCountries.html?yr=2013&type=EFCpc&cn=all
     3.  Conserving Land and Soil
     4.  Waste Disposal and Recycling
+        * U City Recyling http://www.ucitymo.org/documentCenter/view/8743, http://www.ucitymo.org/691/Recycling
         * https://www.youtube.com/watch?v=rOGI5WnPLZk  Subaru waste free plant
         * google images - trash dump
         * living on dump  https://www.youtube.com/watch?v=3AUhA8VVsf0
