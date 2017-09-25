@@ -339,6 +339,8 @@ permalink: /resources/
             *   [Enceladus](https://commons.wikimedia.org/wiki/File:Enceladus_%28Mond%29_%287448582%29.jpg)
             *   [Water Volcano erupting on Enceladus](https://commons.wikimedia.org/wiki/File:Cryovolcanism_on_enceladus.jpg)
             *   [Closeup of Ice Ridges on Enceladus](https://commons.wikimedia.org/wiki/File:Enceladus_%28Mond%29_%287448584%29.jpg)
+            *   [https://saturn.jpl.nasa.gov/the-journey/timeline/#launch-from-cape-canaveral](Cassini Timeline)
+            *   [https://www.youtube.com/watch?v=xrGAQCq9BMU&feature=youtu.be](Cassini video)
         *   Uranus
             *    [Uranus](https://commons.wikimedia.org/wiki/File:Uranus.jpg)
             *    [With Clouds, Rings, and Moons (from hubble)](https://commons.wikimedia.org/wiki/File:Uranusandrings.jpg)
