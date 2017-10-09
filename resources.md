@@ -266,6 +266,7 @@ permalink: /resources/
     1.  Models of the Solar System
     2.  Introducing the Solar System
         *    [Scroll through the solar system on the scale of the moon == 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+        *    [Animation showing size differences between solar system bodies](http://i.imgur.com/DANfkMN.gifv)
         *    [Distances between the planet](https://ctkstl.github.io/earth_science/pages/Relative-Planet-distances/)
         *    [Which Planets Sound Good to Live On?](https://ctkstl.github.io/earth_science/pages/Planets-To-Live-On/)
         *    pictures of the planets
@@ -386,6 +387,7 @@ permalink: /resources/
     3.  Characteristics of Stars
         * [H-R] (https://upload.wikimedia.org/wikipedia/commons/1/17/Hertzsprung-Russel_StarData.png)
     4.  Lives of Stars
+        * [Zoom in to a star nursery](https://apod.nasa.gov/apod/ap170704.html)
         * [Where the elements came from] (http://apod.nasa.gov/apod/ap160125.html)
         * [Pulsar](https://video.search.yahoo.com/video/play;_ylt=A0LEVj0.o9BWtrcAwHknnIlQ;_ylu=X3oDMTByMjB0aG5zBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzYw--?p=npr+sound+of+a+neutron+star&back=https%3A%2F%2Fsearch.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dnpr%2Bsound%2Bof%2Ba%2Bneutron%2Bstar%26ei%3DUTF-8%26hsimp%3Dyhs-001%26hspart%3Dmozilla&fr=%26fr%3Dyhs-mozilla-001&turl=http%3A%2F%2Fts2.mm.bing.net%2Fth%3Fid%3DOVP.Vd3255dd7c65d41ce7b2b7a876036c3b9%26pid%3D15.1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHSyRMotOhoM&tit=Hubble-Space-Telescope+%28The+Sound+of+Pulsar%29&l=20&vid=3b615f57cb6c2d9eb3f8ed5dc6a60eb7&sigr=11bfjqsqv&sigb=137nuqisq&sigt=11cmospp5&sigi=12bctvhi0&hspart=mozilla&hsimp=yhs-001)
         *[Neutron Star over Vancouver](https://www.reddit.com/r/space/comments/498761/averagesized_neutron_star_represented_floating/)
