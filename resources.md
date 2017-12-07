@@ -72,6 +72,8 @@ permalink: /resources/
         *   Fracking and Earthquakes - Scientific American July 2016 p. 51
 5.  Volcanoes
     1.  Volcanoes and Plate Tectonics
+        * [HotSpot Video](https://www.youtube.com/watch?v=bYv6V5EJAKc)
+        * [Hotspot diagram](https://www.youtube.com/watch?v=jG-Sy0y08GM)
     2.  Volcanic Eruptions
         *   Magma (underground) vs. Lava (on the surface)
         *   Mt. St. Helens
