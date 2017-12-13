@@ -77,8 +77,7 @@ permalink: /resources/
     2.  Volcanic Eruptions
         *   Magma (underground) vs. Lava (on the surface)
         *   Mt. St. Helens
-            *  [Make it out alive](https://www.youtube.com/watch?v=mm76stzLjkA)
-            *   1980 Collapse/Eruption [1- 16:30](https://www.youtube.com/watch?v=3zHgwiOK3oU) 
+            *  [Make it out alive](https://www.youtube.com/watch?v=mm76stzLjkA) 
             *   [2- Animation](https://www.youtube.com/watch?v=IhU6jml6NY4) [other1](http://stream1.gifsoup.com/view1/1701838/mt-st-helens-erupting-o.gif), [other2](http://stream1.gifsoup.com/view1/20140506/5032019/mount-st-helens-erupts-o.gif)
             *   [Watching the next mountain over explode](http://imgur.com/uKnHLek)
             *   [Mt. St. Helens Reforming](https://www.youtube.com/watch?v=h6B1myUKAS4), this is an ongoing process.
