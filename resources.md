@@ -135,6 +135,7 @@ permalink: /resources/
         *   [Different discovery with blood cells](http://blogs.discovermagazine.com/d-brief/2015/06/09/blood-cells-dinosaur-bones/#.VYdwiLy37yM)
     2.  The Relative Age of Rocks
     3.  Radioactive Dating
+        * [Carbon14](https://www.youtube.com/watch?v=Lu3MoT_egFI)
         *   Fallout since 1945
     4.  The Geologic Time Scale
         *   Cosmos year calendar
