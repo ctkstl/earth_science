@@ -138,7 +138,7 @@ permalink: /resources/
         * [Carbon14](https://www.youtube.com/watch?v=Lu3MoT_egFI)
         *   Fallout since 1945
     4.  The Geologic Time Scale
-        *   Cosmos year calendar
+        *   Cosmos year calendar - Episode 1, 27:30 (8 min)
         *   [Putting time in perspective](http://ctkstl.github.io/earth_science/images/PuttingTimeInPerspective-G.png)
         *   [History of earth over the distance from Los Angeles to New York](http://www.businessinsider.com/animated-timeline-earth-history-2015-11
 )
