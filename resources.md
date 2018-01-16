@@ -136,6 +136,9 @@ permalink: /resources/
     2.  The Relative Age of Rocks
     3.  Radioactive Dating
         * [Carbon14](https://www.youtube.com/watch?v=Lu3MoT_egFI)
+        * [Potassium40](https://en.wikipedia.org/wiki/Potassium-40)
+        * [decay chain](https://commons.wikimedia.org/wiki/File:Fr_Decay_Chain_Thorium.svg)
+        * [3 types of decay](https://www.scienceabc.com/pure-sciences/why-are-certain-elements-radioactive-causes-examples.html)
         *   Fallout since 1945
     4.  The Geologic Time Scale
         *   Cosmos year calendar - Episode 1, 27:30 (8 min)
