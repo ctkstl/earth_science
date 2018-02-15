@@ -279,6 +279,7 @@ permalink: /resources/
         *    [Guess which picture is of which planet](http://www.planetary.org/blogs/emily-lakdawalla/2015/09300800-the-solar-system-at-1-km.html)
         *    Cosmos Episode 1:4:45-25?  Or before the death sentence
         *    Scientific American May 2016 p. 33
+        *    [Dwarf Planets](https://www.space.com/18584-dwarf-planets-solar-system-infographic.html)
     3.  The Sun
         *    [They Might be Giants Song!] (https://www.youtube.com/watch?v=Oyz7e8iQ6Uo)
         *    [Cool video showing sunspots rotating around the sun](http://apod.nasa.gov/apod/ap150629.html)
