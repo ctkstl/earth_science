@@ -400,6 +400,7 @@ permalink: /resources/
         *[Neutron Star over Vancouver](https://www.reddit.com/r/space/comments/498761/averagesized_neutron_star_represented_floating/)
         * Types of Supernovae - Scientific American June 2016 p. 41
     5.  Star Systems and Galaxies
+        *   [Close pass of star](http://www.rochester.edu/newscenter/scholz-star/)
         *   [Stars moving around the center of our galaxy (over ten years)](https://imgur.com/DL2f3DN)
         *   [Viewing the Andromeda Galaxy with the naked (or aided) eye](http://waitbutwhy.com/2014/06/andromeda-brighter-youd-see.html)
     6.  The Expanding Universe
