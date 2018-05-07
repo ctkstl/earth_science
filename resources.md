@@ -166,6 +166,8 @@ permalink: /resources/
         *   Biomass from algae (http://www.oilgae.com/algae/pro/eth/eth.html)
         *   Nuclear Fission (http://ffden-2.phys.uaf.edu/211_spring2009.web/bob_torgerson/P1.html)
         *   Chain Reacction (https://www.shutterstock.com/image-vector/illustration-nuclear-chain-reaction-uranium235-fission-73714504)
+        *   [Chernobyl animals](https://www.youtube.com/watch?v=TG-nwQBBfmc)
+        *   [Chernobyl puppies](https://www.youtube.com/watch?v=IDz599SBRNA)
     3.  Energy Use and Conservation
 10. Water
     1.  Water on Earth
@@ -223,8 +225,10 @@ permalink: /resources/
     3.  Changes in Climate
         *   Fossils of lush climate in antartica 
         *   North american glaciers
+        *   [Current solar activity](https://www.spaceweatherlive.com/en/solar-activity)
+        *   [last solar maximum](https://www.space.com/23934-weak-solar-cycle-space-weather.html)
     4.  Human Activities and Climate Change
-        *   CO2 readings graph
+        *   [Temperature graph](https://www.nasa.gov/images/content/388674main_portal2Huge.jpg)
         *   [xkcd Temperature graph](http://xkcd.com/1732/)
         *   Hottest years
         *   Feedback Loops
