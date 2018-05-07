@@ -230,7 +230,7 @@ permalink: /resources/
     4.  Human Activities and Climate Change
         *   [Temperature graph](https://www.nasa.gov/images/content/388674main_portal2Huge.jpg)
         *   [xkcd Temperature graph](http://xkcd.com/1732/)
-        *   Hottest years
+        *   [CO2 levels](https://globalclimate.ucr.edu/resources.html)
         *   Feedback Loops
         *   Desertification Animation 4 min (https://www.youtube.com/watch?v=LbFefdUM55Q)
         *   [Desertification movie 6 min] (https://www.youtube.com/watch?v=w9RxnuBiFbg)
