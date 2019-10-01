@@ -279,6 +279,7 @@ permalink: /resources/
         *    [Scroll through the solar system on the scale of the moon == 1 pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
         *    [Animation showing size differences between solar system bodies](http://i.imgur.com/DANfkMN.gifv)
         *    [Distances between the planet](https://ctkstl.github.io/earth_science/pages/Relative-Planet-distances/)
+        *    [How fast light can move through the solar system](https://www.reddit.com/r/dataisbeautiful/comments/dbntq8/light_speed_fast_but_slow_oc/)
         *    [Which Planets Sound Good to Live On?](https://ctkstl.github.io/earth_science/pages/Planets-To-Live-On/)
         *    pictures of the planets
         *    [Guess which picture is of which planet](http://www.planetary.org/blogs/emily-lakdawalla/2015/09300800-the-solar-system-at-1-km.html)
