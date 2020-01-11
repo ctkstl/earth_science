@@ -53,9 +53,10 @@ permalink: /resources/
         *   Note: P.102 not to scale! Mid ocear ridge is very far from subduction trench.
         *   Iceland is part of the ridge, you can see [places where it is spreading](http://epod.usra.edu/blog/2015/08/flosagja-canyon-thingvellir-national-park-iceland.html). [More](http://media.smithsonianmag.com/images/Life-List-Iceland-Mid-Atlantic-Ridge-631.jpg), [More](https://en.wikipedia.org/wiki/File:Iceland_mid_atlantic_ridge.JPG), [And another, underwater](http://www.divephotoguide.com/images/lightboximage/orig/1393387697.jpg)
     3.  The Theory of Plate Tectonics
+        *   [Interactive earth in history](https://dinosaurpictures.org/ancient-earth#0)
         *   Ethopia opening up into a new ocean [Live Science](http://www.livescience.com/10592-giant-crack-africa-create-ocean.html)
         *   [San Andreas Fault Movement](https://en.wikipedia.org/wiki/San_Andreas_Fault#/media/File:Sanandreas.jpg)
-        * Whole chapter:  Cosmos 9, 13:54-20:00
+        *   Whole chapter:  Cosmos 9, 13:54-20:00
 4.  Earthquakes
     1.  Forces in the Earth’s Crust
         *   [San Andreas fault](https://www.youtube.com/watch?v=ZxPTLmg0ZCw)
@@ -246,8 +247,11 @@ permalink: /resources/
         *   Seasons demo
         *   [One day (winter in northern hemisphere)](http://i.imgur.com/fZJ1HwJ.gifv)
         *   [Earth rotating with a fixed space background](http://giant.gfycat.com/InexperiencedQuestionableAegeancat.gif)
+        *   [Milkyway with earth rotating](https://www.reddit.com/r/space/comments/en6e4s/tracking_the_milky_way_making_you_get_a_feel_of/)
         *   [One year from EPIC](https://www.youtube.com/watch?v=CFrP6QfbC2g) Time lapse video from a satellite that is constantly in line between the earth and the sun (a very special gravitational location where it doesn't actually orbit earth). Note, in December you can see the south pole and in June you can see the north pole.
+        *   [Sunrise each day, from space](https://apod.nasa.gov/apod/ap190320.html)
         *   [Sun Position Throughout the Year](https://apod.nasa.gov/apod/ap161221.html)
+        *   [Different sunrise/sunset locations](https://epod.usra.edu/blog/2019/03/paths-of-the-rising-sun-at-the-solstices-and-equinoxes.html)
         *   [Watching the earth rotate](https://apod.nasa.gov/apod/ap190825.html) from a departing space probe.
     3.  Gravity and Motion
         *   [What is an orbit?](https://ctkstl.github.io/earth_science/pages/What-is-an-Orbit/)
@@ -292,6 +296,7 @@ permalink: /resources/
         *    [Cool video showing sunspots rotating around the sun](http://apod.nasa.gov/apod/ap150629.html)
         *    [The color of light coming out of the sun](http://apod.nasa.gov/apod/ap150628.html), [Video of the sun in different wavelengths](https://www.youtube.com/watch?v=kS57VH3QN1g),  you can see lots of different features in the different  infra-red and ultra-violet colors that human eyes can't see (but satellites can, the colors in the video have been altered from their originals into ones that humans can see).
         *    Size of solar flares: [Compared to earth](https://www.flickr.com/photos/gsfc/5492781335/ ), [Video Comparison](https://www.youtube.com/watch?v=015cnqMt2i8)
+        *    [Large solar promince (flare)](https://apod.nasa.gov/apod/ap190526.html)
         *    [Amazing mercury transit video](http://apod.nasa.gov/apod/ap160511.html) and a [picture with the ISS (~300mi away) also transiting](http://apod.nasa.gov/apod/ap160513.html)
         *    [Description of solar flares video](https://www.youtube.com/watch?v=oOXVZo7KikE)
         *    [Visualizing how many earths could fit into the sun. If each small blue ball represents the earth, the large clear-plastic ball is the size the sun would be.](http://i.imgur.com/U5tdA1e.jpg)
@@ -364,24 +369,26 @@ permalink: /resources/
             *    [Neptune](https://commons.wikimedia.org/wiki/File:Neptune_Full.jpg)
             *    [Moon Triton](https://commons.wikimedia.org/wiki/File:Global_Color_Mosaic_of_Triton_(9467442336).jpg)
     6.  Small Solar System Objects
-        * [Where is voyager](http://voyager.jpl.nasa.gov/where/)
-        * [New Horizons](http://www.theplanetstoday.com/new_horizons_flight_path.html)
-        *    [The "Not Planets"](http://www.planetary.org/blogs/emily-lakdawalla/2015/07141338-the-not-planets.html)
-        *    [Animation of known asteroids as they are discovered](https://www.youtube.com/watch?v=BKKg4lZ_o-Y) Blue circles are planets, white dots are when they are discovered, they quickly fade to: green dots for normal asteroids, red dots for ones that cross earth's orbit, yellow dots get close to earth but don't cross. The dots are **much** larger than the size of the objects they represent.
-        *    [Asteroids (aka minor planets) and Comets visited by spacecraft](https://en.wikipedia.org/wiki/List_of_minor_planets_and_comets_visited_by_spacecraft)
-        *    [Bodies with orbits that cross earth's (aka Potentially Hazardous)](https://commons.wikimedia.org/wiki/File:Potentially_Hazardous_Asteroids_2013.png)
-        *    Pluto
-             *    [Pluto](https://commons.wikimedia.org/wiki/File:NH-Pluto-color-NewHorizons-20150713-full.png)
-             *    [New Horizon Flyby Animation](https://commons.wikimedia.org/wiki/File:The_Pluto_System_As_Seen_By_New_Horizons_Spacecraft.webm)
-             *    [Closeup](https://commons.wikimedia.org/wiki/File:NH-Pluto-SputnikPlanum-HillaryMontes-NorgayMontes-20150714-fr.jpg)
-             *    [Very Close](https://commons.wikimedia.org/wiki/File:Pluto%27s_Surface.png)
-             *    [Charon Moon](https://commons.wikimedia.org/wiki/File:Charon-9-10-15.jpg)
-             *    [Size Comparison](https://commons.wikimedia.org/wiki/File:Pluto_Charon_Moon_Earth_Comparison.png)
+        *   [Where is voyager](http://voyager.jpl.nasa.gov/where/)
+        *   [New Horizons](http://www.theplanetstoday.com/new_horizons_flight_path.html)
+        *   [The "Not Planets"](http://www.planetary.org/blogs/emily-lakdawalla/2015/07141338-the-not-planets.html)
+        *   [Animation of known asteroids as they are discovered](https://www.youtube.com/watch?v=BKKg4lZ_o-Y) Blue circles are planets, white dots are when they are discovered, they quickly fade to: green dots for normal asteroids, red dots for ones that cross earth's orbit, yellow dots get close to earth but don't cross. The dots are **much** larger than the size of the objects they represent.
+        *   [Asteroids (aka minor planets) and Comets visited by spacecraft](https://en.wikipedia.org/wiki/List_of_minor_planets_and_comets_visited_by_spacecraft)
+        *   [Flyby of Vesta](https://apod.nasa.gov/apod/ap190630.html)
+        *   [Bodies with orbits that cross earth's (aka Potentially Hazardous)](https://commons.wikimedia.org/wiki/File:Potentially_Hazardous_Asteroids_2013.png)
+        *   Pluto
+            *   [Pluto](https://commons.wikimedia.org/wiki/File:NH-Pluto-color-NewHorizons-20150713-full.png)
+            *   [New Horizon Approach Animation](https://commons.wikimedia.org/wiki/File:The_Pluto_System_As_Seen_By_New_Horizons_Spacecraft.webm)
+            *   [New Horizon Flyby Video](https://apod.nasa.gov/apod/ap170731.html)
+            *   [Closeup](https://commons.wikimedia.org/wiki/File:NH-Pluto-SputnikPlanum-HillaryMontes-NorgayMontes-20150714-fr.jpg)
+            *   [Very Close](https://commons.wikimedia.org/wiki/File:Pluto%27s_Surface.png)
+            *   [Charon Moon](https://commons.wikimedia.org/wiki/File:Charon-9-10-15.jpg)
+            *   [Size Comparison](https://commons.wikimedia.org/wiki/File:Pluto_Charon_Moon_Earth_Comparison.png)
         *    Ceres - Largest in the astroid belt
-             *    [Ceres](https://commons.wikimedia.org/wiki/File:Ceresintruecolor.png)
-             *    [Bright Spot Animation](https://commons.wikimedia.org/wiki/File:Ceres-bright-spots-animated_gif_(slow_frame_rate).gif)
-             *    [A Large Mountain](https://commons.wikimedia.org/wiki/File:PIA19618-Ceres-PyramidShapedMountain-Dawn-20150806.jpg)
-             *    [Flight over Ceres](https://www.youtube.com/watch?v=nJiw2NxqoBU)
+            *   [Ceres](https://commons.wikimedia.org/wiki/File:Ceresintruecolor.png)
+            *   [Bright Spot Animation](https://commons.wikimedia.org/wiki/File:Ceres-bright-spots-animated_gif_(slow_frame_rate).gif)
+            *   [A Large Mountain](https://commons.wikimedia.org/wiki/File:PIA19618-Ceres-PyramidShapedMountain-Dawn-20150806.jpg)
+            *   [Flight over Ceres](https://www.youtube.com/watch?v=nJiw2NxqoBU)
         *   [Meteror in Russia](https://commons.wikimedia.org/wiki/File:%D0%92%D0%B7%D1%80%D1%8B%D0%B2_%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%82%D0%B0_%D0%BD%D0%B0%D0%B4_%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_15_02_2013_avi-iCawTYPtehk.ogv)      
         *   [XKCD Possible Undiscovered Planets](http://xkcd.com/1633/)
 16. Stars, Galaxies, and the Universe
