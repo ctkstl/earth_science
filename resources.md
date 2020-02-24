@@ -244,6 +244,8 @@ permalink: /resources/
     1.  The Sky from Earth
         *   Book says we can see: The Moon, Planets, Meteors and Comets, and Stars in the night sky...important omissions: man-made satellites, and **Galaxies**
         * [ISS Tracker](http://www.isstracker.com/)
+        * [Meteor in Russia](https://www.youtube.com/watch?v=6073eRlPYww)
+        * [Meteor Crater](https://en.wikipedia.org/wiki/Meteor_Crater#/media/File:Meteor_Crater_Panorama_near_Winslow,_Arizona,_2012_07_11.jpg)
     2.  Earth in Space
         *   Seasons demo
         *   [One day (winter in northern hemisphere)](http://i.imgur.com/fZJ1HwJ.gifv)
