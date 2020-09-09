@@ -270,6 +270,7 @@ permalink: /resources/
         *   Why isn't there a solar/lunar eclipse every month....inclination of the moon's orbit 5 degrees.
         *   [Upcoming NA solar eclipses](https://www.astrosociety.org/wp-content/uploads/2016/10/uitc93.pdf)
         *   Same side of the moon always faces the earth, but it [wobbles](https://en.wikipedia.org/wiki/Orbit_of_the_Moon#/media/File:Lunar_libration_with_phase2.gif)
+        *   [Views from the earth and moon during orbit](https://www.youtube.com/watch?v=eV1ZXm3MH6I)
     5.  Tides
         *   Bay of Fundy, Canada  [Largest tides in the world](https://www.youtube.com/watch?v=EnDJ6_XpGfo)
         *   [more bay of fundy] (https://www.youtube.com/watch?v=OP0cpXpw8yk)
