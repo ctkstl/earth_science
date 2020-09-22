@@ -50,6 +50,7 @@ permalink: /resources/
 3.  Plate Tectonics
     1.  Drifting Continents
         *   [Putting time in perspective](http://ctkstl.github.io/earth_science/images/PuttingTimeInPerspective-G.png)
+        * [Watching plate moves](http://earthguide.ucsd.edu/eoc/teachers/t_tectonics/t_tectonics.html)
     2.  Sea-Floor Spreading
         *   Note: P.102 not to scale! Mid ocear ridge is very far from subduction trench.
         *   Iceland is part of the ridge, you can see [places where it is spreading](http://epod.usra.edu/blog/2015/08/flosagja-canyon-thingvellir-national-park-iceland.html). [More](http://media.smithsonianmag.com/images/Life-List-Iceland-Mid-Atlantic-Ridge-631.jpg), [More](https://en.wikipedia.org/wiki/File:Iceland_mid_atlantic_ridge.JPG), [And another, underwater](http://www.divephotoguide.com/images/lightboximage/orig/1393387697.jpg)
