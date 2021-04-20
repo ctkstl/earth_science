@@ -241,6 +241,7 @@ permalink: /resources/
         *   [Desertification Risk Map] (http://mapsof.net/uploads/static-maps/desertification_map.png)
         *   [UNESCO Site on Desertification](http://www.unesco.org/mab/doc/ekocd/chapter12.html)
         *   [Webste for Teaching](http://www.climategen.org/what-we-do/education/climate-change-and-energy-curricula/curriculum-guides/next-generation-climate-for-grades-6-8/)
+        *   [Glacial Change](https://weather.com/photos/news/glaciers-before-and-after-climate-change)
 14. Earth, Moon, and Sun
     1.  The Sky from Earth
         *   Book says we can see: The Moon, Planets, Meteors and Comets, and Stars in the night sky...important omissions: man-made satellites, and **Galaxies**
