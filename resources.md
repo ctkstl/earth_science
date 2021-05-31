@@ -268,7 +268,7 @@ permalink: /resources/
         *   [Neat video of an eclipse from an airplane](http://i.imgur.com/YKpGe6U.gifv)
         *   [pics from space] (http://www.theatlantic.com/photo/2015/09/images-from-offworld/406963/)
         *   [Solar eclips from a satelite showing the whole side of earth](http://www.wired.co.uk/news/archive/2016-03/11/nasa-satellite-images-track-the-shadow-of-a-solar-eclipse)
-        *   Lunar eclipse pictures, include time laps showing the earth's shadown zone
+        *   Lunar eclipse pictures, [composite image showing earths shadow zone](https://www.reddit.com/r/space/comments/no4u6t/my_composite_image_of_the_recent_lunar_eclipse/)
         *   Why isn't there a solar/lunar eclipse every month....inclination of the moon's orbit 5 degrees.
         *   [Upcoming NA solar eclipses](https://www.astrosociety.org/wp-content/uploads/2016/10/uitc93.pdf)
         *   Same side of the moon always faces the earth, but it [wobbles](https://en.wikipedia.org/wiki/Orbit_of_the_Moon#/media/File:Lunar_libration_with_phase2.gif)
